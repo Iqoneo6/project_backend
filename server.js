@@ -19,7 +19,7 @@ mongoose
   )
   .then(() => {
     app.listen(4050, () => {
-      console.log(`server is running right now! http://localhost:4050 💥`);
+      console.log(`server is running right now! http://localhost:4050');
     });
   })
   .catch((err) => {

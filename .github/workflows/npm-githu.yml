@@ -27,12 +27,12 @@ jobs:
       run: npm install pm2 -g
       
       # Start PM2 application
-    - name: Start PM2 application
-      run: pm2 start ecosystem.config.js 
+    # - name: Start PM2 application
+    #   run: pm2 start ecosystem.config.js 
 
     # Graceful reload of the PM2 process
-    # - name: Reload PM2 application
-    #   run: pm2 reload all
+    - name: Reload PM2 application
+      run: pm2 reload all
 
    # Restart Nginx to ensure it's running after PM2
     # - name: Restart nginx service

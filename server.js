@@ -11,7 +11,7 @@ app.use(cors());
 app.get("/api/dummy", (req, res) => {
   res.status(200).json({
     message:
-      "this is my  your server is currently running,Kindly navigate to client side of the application.",
+      "Hi team this is sachin from theni,Kindly navigate to client side of the application.",
   });
 });
 const {PORT, NODE_ENV } = process.env;

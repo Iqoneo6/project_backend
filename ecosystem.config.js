@@ -3,6 +3,7 @@ module.exports = {
     {
       name: "Pm2",
       script: "server.js",
+      cwd: "/home/ubuntu/actions-runner/_work/project_backend/project_backend",
       instances: '1',
       exec_mode: "cluster",
       max_memory_restart: "300M",

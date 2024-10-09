@@ -1,6 +1,8 @@
 const express = require("express");
 const cors = require("cors");
 const { default: mongoose } = require("mongoose");
+const dotenv = require('dotenv');
+dotenv.config();
 
 const app = express();
 
@@ -22,14 +24,12 @@ const startServer = () => {
 
 const dbConnection =async()=> {
   try {
-    await mongoose.connect(
-      "mongodb+srv://wizinoa_site:5h7fPti0txF9lvqY@cluster0.pevnj2b.mongodb.net/school_rehabilitation?retryWrites=true&w=majority&appName=school_rehabilitation"
-    );
-    console.log(`Db is Connected`);
+    const db = await mongoose.connect(process.env.MONGODB_URL);
+    console.log(`Db is Connected ${db.connection.host}`);
     
   } catch (error) {
-    console.log(err);
+    console.log(error);
     process.exit(1);
   };
 };
-dbConnection.then(startServer);
+dbConnection().then(startServer);

@@ -1,8 +1,7 @@
-
 module.exports = {
   apps: [
     {
-      name: "Project_Backend",
+      name: "project_Backend",
       script: "server.js",
       watch: true,
       node_args: "--max_old_space_size=16000",
@@ -23,21 +22,8 @@ module.exports = {
       env: {
         NODE_ENV: "production", // Note: "env" instead of "env_prod"
       },
-<<<<<<< HEAD
-      env_production: {
-        NODE_ENV: "production",
-        PORT: 5050,
-        exec_mode: "cluster_mode",
-      }
-    }, 
-    // {
-    //   name: 'worker',
-    //   script: 'worker.js'
-    // }
-=======
       log_date_format: "YYYY-MM-DD HH:mm:ss",
     },
->>>>>>> 7ceb599ad412801be5a46ced7262ee9710698de5
   ],
   logrotate: {
     enabled: true,

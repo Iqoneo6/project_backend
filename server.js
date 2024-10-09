@@ -12,14 +12,14 @@ app.get("/api/dummy", (req, res) => {
       "Hello Viewers your server is currently running,Kindly navigate to client side of the application.",
   });
 });
-const {PORT } = process.env;
+const {PORT, NODE_ENV } = process.env;
 mongoose
   .connect(
     "mongodb+srv://wizinoa_site:5h7fPti0txF9lvqY@cluster0.pevnj2b.mongodb.net/school_rehabilitation?retryWrites=true&w=majority&appName=school_rehabilitation"
   )
   .then(() => {
     app.listen(PORT, () => {
-      console.log(`server is running right now! http://localhost:${PORT}`);
+      console.log(`server is running on http://localhost:${PORT} in ${NODE_ENV} mode`);
     });
   })
   .catch((err) => {

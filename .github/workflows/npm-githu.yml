@@ -21,17 +21,14 @@ jobs:
     - name: Install dependencies
       run: npm install 
 
-    - name: Start or reload PM2 application
-      run: |
-        if pm2 describe your_app_name; then
-          pm2 reload your_app_name
-        else
-          pm2 start ecosystem.config.js
-        fi
+      # Start PM2 application
+    - name: Start PM2 application
+      run: pm2 start ecosystem.config.js --env production
 
-    - name: PM2 status
-      run: pm2 status
+    # Graceful reload of the PM2 process
+    - name: Reload PM2 application
+      run: pm2 reload all
 
-    # Uncomment the following step if you want to restart Nginx
-    # - name: Restart Nginx service
+   # Restart Nginx to ensure it's running after PM2
+    # - name: Restart nginx service
     #   run: sudo service nginx restart

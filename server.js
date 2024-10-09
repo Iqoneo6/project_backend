@@ -9,7 +9,7 @@ app.use(cors());
 app.get("/api/dummy", (req, res) => {
   res.status(200).json({
     message:
-      "Hello Viewers your server is currently running,Kindly navigate to client side of the application.",
+      "Hello developer this is my  your server is currently running,Kindly navigate to client side of the application.",
   });
 });
 const {PORT, NODE_ENV } = process.env;
@@ -19,7 +19,7 @@ mongoose
   )
   .then(() => {
     app.listen(PORT, () => {
-      console.log(`server is running on http://localhost:${PORT} in ${NODE_ENV} mode`);
+      console.log(`server running on http://localhost:${PORT} in ${NODE_ENV} mode`);
     });
   })
   .catch((err) => {

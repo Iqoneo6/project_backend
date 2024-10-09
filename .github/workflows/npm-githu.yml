@@ -1,5 +1,5 @@
 
-name: project_backend
+name: project
 
 on:
   push:

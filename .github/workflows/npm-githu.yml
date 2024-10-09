@@ -23,8 +23,8 @@ jobs:
 
     - name: Start or reload PM2 application
       run: |
-        if pm2 describe your_app_name; then
-          pm2 reload your_app_name
+        if pm2 describe pm2; then
+          pm2 reload pm2
         else
           pm2 start ecosystem.config.js
         fi

@@ -1,5 +1,5 @@
 
-name: naanal_hrms_server_1
+name: project_backend
 
 on:
   push:

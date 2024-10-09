@@ -5,7 +5,7 @@ module.exports = {
       script: "server.js",
       cwd: "/home/ubuntu/actions-runner/_work/project_backend/project_backend",
       instances: '1',
-      exec_mode: "cluster",
+      exec_mode: "fork",
       max_memory_restart: "300M",
       node_args: '--max_old_space_size=16000',  // Set max old space size to 16GB
       // Logging
@@ -19,7 +19,7 @@ module.exports = {
         PORT: 3002,
         watch: true,
         watch_delay: 3000,
-        ignore_watch: [
+     ignore_watch: [
           "./node_modules",
           "./views",
           "./public",
@@ -27,17 +27,13 @@ module.exports = {
           "./package.json",
           "./yarn.lock",
           "./samples",
-          "./src",
-          '.git', 
-          'node_modules',
-          "log", "log/", ".node-gyp", ".node-gyp/", ".pm2", ".pm2/", "public", "public/",
-        "xml_file/*", ".git",
+          "log", 
+          "xml_file/*", 
         ],
       },
       env_production: {
         NODE_ENV: "production",
         PORT: 5000,
-        exec_mode: "cluster_mode",
       }
     }, 
     // {

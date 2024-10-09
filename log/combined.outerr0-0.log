@@ -2118,3 +2118,4 @@ Require stack:
     at C:\Users\Admin\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainer.js:304:25
     at wrapper (C:\Users\Admin\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\once.js:12:16)
 2024-10-09 13:24 +05:30: server is running right now! http://localhost:5000
+2024-10-09 13:27 +05:30: server is running on http://localhost:5050 in production mode

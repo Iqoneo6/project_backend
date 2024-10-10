@@ -1,17 +1,16 @@
-
 module.exports = {
   apps : [
     {
-      name: "Project_Backend",
+      name: "Pm2",
       script: "server.js",
       instances: '1',
       exec_mode: "cluster",
       max_memory_restart: "300M",
-      // node_args: '--max_old_space_size=16000',  // Set max old space size to 16GB
+      node_args: '--max_old_space_size=16000',  // Set max old space size to 16GB
       // Logging
       log: './log/combined.outerr0.log',
-      output: './log/pm2/out.log',
-      error: './log/pm2/error.log',
+      output: 'log/pm2/out.log',
+      error: 'log/pm2/error.log',
       log_date_format: "YYYY-MM-DD HH:mm Z",  // Timestamp for logs
       // log_type: "json",                    // Log the data as json
       env_development: {
@@ -30,18 +29,20 @@ module.exports = {
           "./src",
           '.git', 
           'node_modules',
+          "log", "log/", ".node-gyp", ".node-gyp/", ".pm2", ".pm2/", "public", "public/",
+        "xml_file/*", ".git",
         ],
       },
       env_production: {
         NODE_ENV: "production",
-<<<<<<< HEAD
-        PORT: 3000,
-        exec_mode: "cluster_mode",
-=======
         PORT: 5000,
->>>>>>> e9f7e73e5c872748a2bc955a2b0090a26c77a0ad
+        exec_mode: "cluster_mode",
       }
     }, 
+    // {
+    //   name: 'worker',
+    //   script: 'worker.js'
+    // }
   ],
   logrotate: {
     enabled: true,

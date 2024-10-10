@@ -3,7 +3,7 @@ module.exports = {
     {
       name: "Project_backend",
       script: "server.js",
-      watch: true,
+      // watch: true,
       node_args: "--max_old_space_size=16000",
       log: "./log/combined.outerr0.log",
       output: "./log/pm2/out.log",

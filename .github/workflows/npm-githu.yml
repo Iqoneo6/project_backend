@@ -1,4 +1,4 @@
-name: project
+name: project_backend
 
 on:
   push:

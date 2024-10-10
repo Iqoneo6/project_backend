@@ -1,20 +1,40 @@
 module.exports = {
   apps: [
     {
-      name: 'my-node-app',       // Name of your application
-      script: './server.js',     // Path to the main entry point of your application
-      instances: 'max',          // Use all available CPU cores
-      exec_mode: 'cluster',      // Run in cluster mode
-      // watch: true,               // Enable watch mode for automatic restarts on file changes
-      max_memory_restart: '1G',  // Restart if memory usage exceeds 1GB
+      name: "Project_backend",
+      script: "server.js",
+      watch: true,
+      node_args: "--max_old_space_size=16000",
+      log: "./log/combined.outerr0.log",
+      output: "./log/pm2/out.log",
+      error: "./log/pm2/error.log",
+      ignore_watch: [
+        "log",
+        "log/",
+        ".node-gyp",
+        ".node-gyp/",
+        ".pm2",
+        ".pm2/",
+        "public",
+        "public/",
+        "xml_file/*",
+      ],
       env: {
-        NODE_ENV: 'development', // Environment variables for development
-        PORT: 3000,              // Development port
+        NODE_ENV: "production", // Note: "env" instead of "env_prod"
+        PORT:5000,
       },
-      env_production: {
-        NODE_ENV: 'production',   // Environment variables for production
-        PORT: 8000,               // Production port
-      },
+      log_date_format: "YYYY-MM-DD HH:mm:ss",
     },
   ],
+  logrotate: {
+    enabled: true,
+    // Rotate logs daily
+    rotateInterval: "0 0   *",
+    // Keep 30 days of logs
+    retain: "30",
+    // Log files path
+    filePath: "log/pm2",
+    // Compress rotated logs
+    compress: true,
+  },
 };

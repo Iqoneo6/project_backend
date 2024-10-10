@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Error: Cannot find module 'express'
 Require stack:
 - C:\Users\Admin\Desktop\Git local\project_backend\server.js
@@ -895,3 +896,7 @@ Require stack:
     at Module._load (node:internal/modules/cjs/loader:1024:12)
     at C:\Users\Admin\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainer.js:304:25
     at wrapper (C:\Users\Admin\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\once.js:12:16)
+=======
+2024-10-09 18:20 +05:30: Db is Connected ac-lrhhdte-shard-00-00.pevnj2b.mongodb.net
+2024-10-09 18:20 +05:30: server running on http://localhost:5000 in production mode
+>>>>>>> e9f7e73e5c872748a2bc955a2b0090a26c77a0ad

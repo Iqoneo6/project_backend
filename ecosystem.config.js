@@ -1,4 +1,4 @@
-pmodule.exports = {
+module.exports = {
   apps: [
     {
       name: "Project_backend",

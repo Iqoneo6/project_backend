@@ -1,4 +1,4 @@
-module.exports = {
+pmodule.exports = {
   apps: [
     {
       name: "Project_backend",
@@ -22,6 +22,8 @@ module.exports = {
       env: {
         NODE_ENV: "production", // Note: "env" instead of "env_prod"
         PORT:5000,
+        exec_mode : "cluster"
+
       },
       log_date_format: "YYYY-MM-DD HH:mm:ss",
     },

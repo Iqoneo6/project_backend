@@ -1,0 +1,1440 @@
+2024-10-21 17:35:23: Error: Cannot find module 'express'
+2024-10-21 17:35:23: Require stack:
+2024-10-21 17:35:23: - C:\Users\Admin\OneDrive\Desktop\Git local\project_backend\server.js
+2024-10-21 17:35:23:     at Module._resolveFilename (node:internal/modules/cjs/loader:1145:15)
+2024-10-21 17:35:23:     at Hook._require.Module.require (C:\Users\Admin\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:81:25)
+2024-10-21 17:35:23:     at require (node:internal/modules/helpers:179:18)
+2024-10-21 17:35:23:     at Object.<anonymous> (C:\Users\Admin\OneDrive\Desktop\Git local\project_backend\server.js:1:17)
+2024-10-21 17:35:23:     at Module._compile (node:internal/modules/cjs/loader:1358:14)
+2024-10-21 17:35:23:     at Module._extensions..js (node:internal/modules/cjs/loader:1416:10)
+2024-10-21 17:35:23:     at Module.load (node:internal/modules/cjs/loader:1208:32)
+2024-10-21 17:35:23:     at Module._load (node:internal/modules/cjs/loader:1024:12)
+2024-10-21 17:35:23:     at Object.<anonymous> (C:\Users\Admin\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23)
+2024-10-21 17:35:23:     at Module._compile (node:internal/modules/cjs/loader:1358:14) {
+2024-10-21 17:35:23:   code: 'MODULE_NOT_FOUND',
+2024-10-21 17:35:23:   requireStack: [
+2024-10-21 17:35:23:     'C:\\Users\\Admin\\OneDrive\\Desktop\\Git local\\project_backend\\server.js'
+2024-10-21 17:35:23:   ]
+2024-10-21 17:35:23: }
+2024-10-21 17:35:23: Error: Cannot find module 'express'
+2024-10-21 17:35:23: Require stack:
+2024-10-21 17:35:23: - C:\Users\Admin\OneDrive\Desktop\Git local\project_backend\server.js
+2024-10-21 17:35:23:     at Module._resolveFilename (node:internal/modules/cjs/loader:1145:15)
+2024-10-21 17:35:23:     at Hook._require.Module.require (C:\Users\Admin\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:81:25)
+2024-10-21 17:35:23:     at require (node:internal/modules/helpers:179:18)
+2024-10-21 17:35:23:     at Object.<anonymous> (C:\Users\Admin\OneDrive\Desktop\Git local\project_backend\server.js:1:17)
+2024-10-21 17:35:23:     at Module._compile (node:internal/modules/cjs/loader:1358:14)
+2024-10-21 17:35:23:     at Module._extensions..js (node:internal/modules/cjs/loader:1416:10)
+2024-10-21 17:35:23:     at Module.load (node:internal/modules/cjs/loader:1208:32)
+2024-10-21 17:35:23:     at Module._load (node:internal/modules/cjs/loader:1024:12)
+2024-10-21 17:35:23:     at Object.<anonymous> (C:\Users\Admin\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23)
+2024-10-21 17:35:23:     at Module._compile (node:internal/modules/cjs/loader:1358:14) {
+2024-10-21 17:35:23:   code: 'MODULE_NOT_FOUND',
+2024-10-21 17:35:23:   requireStack: [
+2024-10-21 17:35:23:     'C:\\Users\\Admin\\OneDrive\\Desktop\\Git local\\project_backend\\server.js'
+2024-10-21 17:35:23:   ]
+2024-10-21 17:35:23: }
+2024-10-21 17:35:24: Error: Cannot find module 'express'
+2024-10-21 17:35:24: Require stack:
+2024-10-21 17:35:24: - C:\Users\Admin\OneDrive\Desktop\Git local\project_backend\server.js
+2024-10-21 17:35:24:     at Module._resolveFilename (node:internal/modules/cjs/loader:1145:15)
+2024-10-21 17:35:24:     at Hook._require.Module.require (C:\Users\Admin\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:81:25)
+2024-10-21 17:35:24:     at require (node:internal/modules/helpers:179:18)
+2024-10-21 17:35:24:     at Object.<anonymous> (C:\Users\Admin\OneDrive\Desktop\Git local\project_backend\server.js:1:17)
+2024-10-21 17:35:24:     at Module._compile (node:internal/modules/cjs/loader:1358:14)
+2024-10-21 17:35:24:     at Module._extensions..js (node:internal/modules/cjs/loader:1416:10)
+2024-10-21 17:35:24:     at Module.load (node:internal/modules/cjs/loader:1208:32)
+2024-10-21 17:35:24:     at Module._load (node:internal/modules/cjs/loader:1024:12)
+2024-10-21 17:35:24:     at Object.<anonymous> (C:\Users\Admin\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23)
+2024-10-21 17:35:24:     at Module._compile (node:internal/modules/cjs/loader:1358:14) {
+2024-10-21 17:35:24:   code: 'MODULE_NOT_FOUND',
+2024-10-21 17:35:24:   requireStack: [
+2024-10-21 17:35:24:     'C:\\Users\\Admin\\OneDrive\\Desktop\\Git local\\project_backend\\server.js'
+2024-10-21 17:35:24:   ]
+2024-10-21 17:35:24: }
+2024-10-21 17:35:25: Error: Cannot find module 'express'
+2024-10-21 17:35:25: Require stack:
+2024-10-21 17:35:25: - C:\Users\Admin\OneDrive\Desktop\Git local\project_backend\server.js
+2024-10-21 17:35:25:     at Module._resolveFilename (node:internal/modules/cjs/loader:1145:15)
+2024-10-21 17:35:25:     at Hook._require.Module.require (C:\Users\Admin\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:81:25)
+2024-10-21 17:35:25:     at require (node:internal/modules/helpers:179:18)
+2024-10-21 17:35:25:     at Object.<anonymous> (C:\Users\Admin\OneDrive\Desktop\Git local\project_backend\server.js:1:17)
+2024-10-21 17:35:25:     at Module._compile (node:internal/modules/cjs/loader:1358:14)
+2024-10-21 17:35:25:     at Module._extensions..js (node:internal/modules/cjs/loader:1416:10)
+2024-10-21 17:35:25:     at Module.load (node:internal/modules/cjs/loader:1208:32)
+2024-10-21 17:35:25:     at Module._load (node:internal/modules/cjs/loader:1024:12)
+2024-10-21 17:35:25:     at Object.<anonymous> (C:\Users\Admin\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23)
+2024-10-21 17:35:25:     at Module._compile (node:internal/modules/cjs/loader:1358:14) {
+2024-10-21 17:35:25:   code: 'MODULE_NOT_FOUND',
+2024-10-21 17:35:25:   requireStack: [
+2024-10-21 17:35:25:     'C:\\Users\\Admin\\OneDrive\\Desktop\\Git local\\project_backend\\server.js'
+2024-10-21 17:35:25:   ]
+2024-10-21 17:35:25: }
+2024-10-21 17:35:26: Error: Cannot find module 'express'
+2024-10-21 17:35:26: Require stack:
+2024-10-21 17:35:26: - C:\Users\Admin\OneDrive\Desktop\Git local\project_backend\server.js
+2024-10-21 17:35:26:     at Module._resolveFilename (node:internal/modules/cjs/loader:1145:15)
+2024-10-21 17:35:26:     at Hook._require.Module.require (C:\Users\Admin\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:81:25)
+2024-10-21 17:35:26:     at require (node:internal/modules/helpers:179:18)
+2024-10-21 17:35:26:     at Object.<anonymous> (C:\Users\Admin\OneDrive\Desktop\Git local\project_backend\server.js:1:17)
+2024-10-21 17:35:26:     at Module._compile (node:internal/modules/cjs/loader:1358:14)
+2024-10-21 17:35:26:     at Module._extensions..js (node:internal/modules/cjs/loader:1416:10)
+2024-10-21 17:35:26:     at Module.load (node:internal/modules/cjs/loader:1208:32)
+2024-10-21 17:35:26:     at Module._load (node:internal/modules/cjs/loader:1024:12)
+2024-10-21 17:35:26:     at Object.<anonymous> (C:\Users\Admin\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23)
+2024-10-21 17:35:26:     at Module._compile (node:internal/modules/cjs/loader:1358:14) {
+2024-10-21 17:35:26:   code: 'MODULE_NOT_FOUND',
+2024-10-21 17:35:26:   requireStack: [
+2024-10-21 17:35:26:     'C:\\Users\\Admin\\OneDrive\\Desktop\\Git local\\project_backend\\server.js'
+2024-10-21 17:35:26:   ]
+2024-10-21 17:35:26: }
+2024-10-21 17:35:27: Error: Cannot find module 'express'
+2024-10-21 17:35:27: Require stack:
+2024-10-21 17:35:27: - C:\Users\Admin\OneDrive\Desktop\Git local\project_backend\server.js
+2024-10-21 17:35:27:     at Module._resolveFilename (node:internal/modules/cjs/loader:1145:15)
+2024-10-21 17:35:27:     at Hook._require.Module.require (C:\Users\Admin\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:81:25)
+2024-10-21 17:35:27:     at require (node:internal/modules/helpers:179:18)
+2024-10-21 17:35:27:     at Object.<anonymous> (C:\Users\Admin\OneDrive\Desktop\Git local\project_backend\server.js:1:17)
+2024-10-21 17:35:27:     at Module._compile (node:internal/modules/cjs/loader:1358:14)
+2024-10-21 17:35:27:     at Module._extensions..js (node:internal/modules/cjs/loader:1416:10)
+2024-10-21 17:35:27:     at Module.load (node:internal/modules/cjs/loader:1208:32)
+2024-10-21 17:35:27:     at Module._load (node:internal/modules/cjs/loader:1024:12)
+2024-10-21 17:35:27:     at Object.<anonymous> (C:\Users\Admin\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23)
+2024-10-21 17:35:27:     at Module._compile (node:internal/modules/cjs/loader:1358:14) {
+2024-10-21 17:35:27:   code: 'MODULE_NOT_FOUND',
+2024-10-21 17:35:27:   requireStack: [
+2024-10-21 17:35:27:     'C:\\Users\\Admin\\OneDrive\\Desktop\\Git local\\project_backend\\server.js'
+2024-10-21 17:35:27:   ]
+2024-10-21 17:35:27: }
+2024-10-21 17:35:27: Error: Cannot find module 'express'
+2024-10-21 17:35:27: Require stack:
+2024-10-21 17:35:27: - C:\Users\Admin\OneDrive\Desktop\Git local\project_backend\server.js
+2024-10-21 17:35:27:     at Module._resolveFilename (node:internal/modules/cjs/loader:1145:15)
+2024-10-21 17:35:27:     at Hook._require.Module.require (C:\Users\Admin\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:81:25)
+2024-10-21 17:35:27:     at require (node:internal/modules/helpers:179:18)
+2024-10-21 17:35:27:     at Object.<anonymous> (C:\Users\Admin\OneDrive\Desktop\Git local\project_backend\server.js:1:17)
+2024-10-21 17:35:27:     at Module._compile (node:internal/modules/cjs/loader:1358:14)
+2024-10-21 17:35:27:     at Module._extensions..js (node:internal/modules/cjs/loader:1416:10)
+2024-10-21 17:35:27:     at Module.load (node:internal/modules/cjs/loader:1208:32)
+2024-10-21 17:35:27:     at Module._load (node:internal/modules/cjs/loader:1024:12)
+2024-10-21 17:35:27:     at Object.<anonymous> (C:\Users\Admin\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23)
+2024-10-21 17:35:27:     at Module._compile (node:internal/modules/cjs/loader:1358:14) {
+2024-10-21 17:35:27:   code: 'MODULE_NOT_FOUND',
+2024-10-21 17:35:27:   requireStack: [
+2024-10-21 17:35:27:     'C:\\Users\\Admin\\OneDrive\\Desktop\\Git local\\project_backend\\server.js'
+2024-10-21 17:35:27:   ]
+2024-10-21 17:35:27: }
+2024-10-21 17:35:28: Error: Cannot find module 'express'
+2024-10-21 17:35:28: Require stack:
+2024-10-21 17:35:28: - C:\Users\Admin\OneDrive\Desktop\Git local\project_backend\server.js
+2024-10-21 17:35:28:     at Module._resolveFilename (node:internal/modules/cjs/loader:1145:15)
+2024-10-21 17:35:28:     at Hook._require.Module.require (C:\Users\Admin\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:81:25)
+2024-10-21 17:35:28:     at require (node:internal/modules/helpers:179:18)
+2024-10-21 17:35:28:     at Object.<anonymous> (C:\Users\Admin\OneDrive\Desktop\Git local\project_backend\server.js:1:17)
+2024-10-21 17:35:28:     at Module._compile (node:internal/modules/cjs/loader:1358:14)
+2024-10-21 17:35:28:     at Module._extensions..js (node:internal/modules/cjs/loader:1416:10)
+2024-10-21 17:35:28:     at Module.load (node:internal/modules/cjs/loader:1208:32)
+2024-10-21 17:35:28:     at Module._load (node:internal/modules/cjs/loader:1024:12)
+2024-10-21 17:35:28:     at Object.<anonymous> (C:\Users\Admin\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23)
+2024-10-21 17:35:28:     at Module._compile (node:internal/modules/cjs/loader:1358:14) {
+2024-10-21 17:35:28:   code: 'MODULE_NOT_FOUND',
+2024-10-21 17:35:28:   requireStack: [
+2024-10-21 17:35:28:     'C:\\Users\\Admin\\OneDrive\\Desktop\\Git local\\project_backend\\server.js'
+2024-10-21 17:35:28:   ]
+2024-10-21 17:35:28: }
+2024-10-21 17:35:29: Error: Cannot find module 'express'
+2024-10-21 17:35:29: Require stack:
+2024-10-21 17:35:29: - C:\Users\Admin\OneDrive\Desktop\Git local\project_backend\server.js
+2024-10-21 17:35:29:     at Module._resolveFilename (node:internal/modules/cjs/loader:1145:15)
+2024-10-21 17:35:29:     at Hook._require.Module.require (C:\Users\Admin\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:81:25)
+2024-10-21 17:35:29:     at require (node:internal/modules/helpers:179:18)
+2024-10-21 17:35:29:     at Object.<anonymous> (C:\Users\Admin\OneDrive\Desktop\Git local\project_backend\server.js:1:17)
+2024-10-21 17:35:29:     at Module._compile (node:internal/modules/cjs/loader:1358:14)
+2024-10-21 17:35:29:     at Module._extensions..js (node:internal/modules/cjs/loader:1416:10)
+2024-10-21 17:35:29:     at Module.load (node:internal/modules/cjs/loader:1208:32)
+2024-10-21 17:35:29:     at Module._load (node:internal/modules/cjs/loader:1024:12)
+2024-10-21 17:35:29:     at Object.<anonymous> (C:\Users\Admin\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23)
+2024-10-21 17:35:29:     at Module._compile (node:internal/modules/cjs/loader:1358:14) {
+2024-10-21 17:35:29:   code: 'MODULE_NOT_FOUND',
+2024-10-21 17:35:29:   requireStack: [
+2024-10-21 17:35:29:     'C:\\Users\\Admin\\OneDrive\\Desktop\\Git local\\project_backend\\server.js'
+2024-10-21 17:35:29:   ]
+2024-10-21 17:35:29: }
+2024-10-21 17:35:30: Error: Cannot find module 'express'
+2024-10-21 17:35:30: Require stack:
+2024-10-21 17:35:30: - C:\Users\Admin\OneDrive\Desktop\Git local\project_backend\server.js
+2024-10-21 17:35:30:     at Module._resolveFilename (node:internal/modules/cjs/loader:1145:15)
+2024-10-21 17:35:30:     at Hook._require.Module.require (C:\Users\Admin\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:81:25)
+2024-10-21 17:35:30:     at require (node:internal/modules/helpers:179:18)
+2024-10-21 17:35:30:     at Object.<anonymous> (C:\Users\Admin\OneDrive\Desktop\Git local\project_backend\server.js:1:17)
+2024-10-21 17:35:30:     at Module._compile (node:internal/modules/cjs/loader:1358:14)
+2024-10-21 17:35:30:     at Module._extensions..js (node:internal/modules/cjs/loader:1416:10)
+2024-10-21 17:35:30:     at Module.load (node:internal/modules/cjs/loader:1208:32)
+2024-10-21 17:35:30:     at Module._load (node:internal/modules/cjs/loader:1024:12)
+2024-10-21 17:35:30:     at Object.<anonymous> (C:\Users\Admin\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23)
+2024-10-21 17:35:30:     at Module._compile (node:internal/modules/cjs/loader:1358:14) {
+2024-10-21 17:35:30:   code: 'MODULE_NOT_FOUND',
+2024-10-21 17:35:30:   requireStack: [
+2024-10-21 17:35:30:     'C:\\Users\\Admin\\OneDrive\\Desktop\\Git local\\project_backend\\server.js'
+2024-10-21 17:35:30:   ]
+2024-10-21 17:35:30: }
+2024-10-21 17:35:30: Error: Cannot find module 'express'
+2024-10-21 17:35:30: Require stack:
+2024-10-21 17:35:30: - C:\Users\Admin\OneDrive\Desktop\Git local\project_backend\server.js
+2024-10-21 17:35:30:     at Module._resolveFilename (node:internal/modules/cjs/loader:1145:15)
+2024-10-21 17:35:30:     at Hook._require.Module.require (C:\Users\Admin\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:81:25)
+2024-10-21 17:35:30:     at require (node:internal/modules/helpers:179:18)
+2024-10-21 17:35:30:     at Object.<anonymous> (C:\Users\Admin\OneDrive\Desktop\Git local\project_backend\server.js:1:17)
+2024-10-21 17:35:30:     at Module._compile (node:internal/modules/cjs/loader:1358:14)
+2024-10-21 17:35:30:     at Module._extensions..js (node:internal/modules/cjs/loader:1416:10)
+2024-10-21 17:35:30:     at Module.load (node:internal/modules/cjs/loader:1208:32)
+2024-10-21 17:35:30:     at Module._load (node:internal/modules/cjs/loader:1024:12)
+2024-10-21 17:35:30:     at Object.<anonymous> (C:\Users\Admin\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23)
+2024-10-21 17:35:30:     at Module._compile (node:internal/modules/cjs/loader:1358:14) {
+2024-10-21 17:35:30:   code: 'MODULE_NOT_FOUND',
+2024-10-21 17:35:30:   requireStack: [
+2024-10-21 17:35:30:     'C:\\Users\\Admin\\OneDrive\\Desktop\\Git local\\project_backend\\server.js'
+2024-10-21 17:35:30:   ]
+2024-10-21 17:35:30: }
+2024-10-21 17:35:31: Error: Cannot find module 'express'
+2024-10-21 17:35:31: Require stack:
+2024-10-21 17:35:31: - C:\Users\Admin\OneDrive\Desktop\Git local\project_backend\server.js
+2024-10-21 17:35:31:     at Module._resolveFilename (node:internal/modules/cjs/loader:1145:15)
+2024-10-21 17:35:31:     at Hook._require.Module.require (C:\Users\Admin\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:81:25)
+2024-10-21 17:35:31:     at require (node:internal/modules/helpers:179:18)
+2024-10-21 17:35:31:     at Object.<anonymous> (C:\Users\Admin\OneDrive\Desktop\Git local\project_backend\server.js:1:17)
+2024-10-21 17:35:31:     at Module._compile (node:internal/modules/cjs/loader:1358:14)
+2024-10-21 17:35:31:     at Module._extensions..js (node:internal/modules/cjs/loader:1416:10)
+2024-10-21 17:35:31:     at Module.load (node:internal/modules/cjs/loader:1208:32)
+2024-10-21 17:35:31:     at Module._load (node:internal/modules/cjs/loader:1024:12)
+2024-10-21 17:35:31:     at Object.<anonymous> (C:\Users\Admin\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23)
+2024-10-21 17:35:31:     at Module._compile (node:internal/modules/cjs/loader:1358:14) {
+2024-10-21 17:35:31:   code: 'MODULE_NOT_FOUND',
+2024-10-21 17:35:31:   requireStack: [
+2024-10-21 17:35:31:     'C:\\Users\\Admin\\OneDrive\\Desktop\\Git local\\project_backend\\server.js'
+2024-10-21 17:35:31:   ]
+2024-10-21 17:35:31: }
+2024-10-21 17:35:32: Error: Cannot find module 'express'
+2024-10-21 17:35:32: Require stack:
+2024-10-21 17:35:32: - C:\Users\Admin\OneDrive\Desktop\Git local\project_backend\server.js
+2024-10-21 17:35:32:     at Module._resolveFilename (node:internal/modules/cjs/loader:1145:15)
+2024-10-21 17:35:32:     at Hook._require.Module.require (C:\Users\Admin\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:81:25)
+2024-10-21 17:35:32:     at require (node:internal/modules/helpers:179:18)
+2024-10-21 17:35:32:     at Object.<anonymous> (C:\Users\Admin\OneDrive\Desktop\Git local\project_backend\server.js:1:17)
+2024-10-21 17:35:32:     at Module._compile (node:internal/modules/cjs/loader:1358:14)
+2024-10-21 17:35:32:     at Module._extensions..js (node:internal/modules/cjs/loader:1416:10)
+2024-10-21 17:35:32:     at Module.load (node:internal/modules/cjs/loader:1208:32)
+2024-10-21 17:35:32:     at Module._load (node:internal/modules/cjs/loader:1024:12)
+2024-10-21 17:35:32:     at Object.<anonymous> (C:\Users\Admin\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23)
+2024-10-21 17:35:32:     at Module._compile (node:internal/modules/cjs/loader:1358:14) {
+2024-10-21 17:35:32:   code: 'MODULE_NOT_FOUND',
+2024-10-21 17:35:32:   requireStack: [
+2024-10-21 17:35:32:     'C:\\Users\\Admin\\OneDrive\\Desktop\\Git local\\project_backend\\server.js'
+2024-10-21 17:35:32:   ]
+2024-10-21 17:35:32: }
+2024-10-21 17:35:33: Error: Cannot find module 'express'
+2024-10-21 17:35:33: Require stack:
+2024-10-21 17:35:33: - C:\Users\Admin\OneDrive\Desktop\Git local\project_backend\server.js
+2024-10-21 17:35:33:     at Module._resolveFilename (node:internal/modules/cjs/loader:1145:15)
+2024-10-21 17:35:33:     at Hook._require.Module.require (C:\Users\Admin\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:81:25)
+2024-10-21 17:35:33:     at require (node:internal/modules/helpers:179:18)
+2024-10-21 17:35:33:     at Object.<anonymous> (C:\Users\Admin\OneDrive\Desktop\Git local\project_backend\server.js:1:17)
+2024-10-21 17:35:33:     at Module._compile (node:internal/modules/cjs/loader:1358:14)
+2024-10-21 17:35:33:     at Module._extensions..js (node:internal/modules/cjs/loader:1416:10)
+2024-10-21 17:35:33:     at Module.load (node:internal/modules/cjs/loader:1208:32)
+2024-10-21 17:35:33:     at Module._load (node:internal/modules/cjs/loader:1024:12)
+2024-10-21 17:35:33:     at Object.<anonymous> (C:\Users\Admin\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23)
+2024-10-21 17:35:33:     at Module._compile (node:internal/modules/cjs/loader:1358:14) {
+2024-10-21 17:35:33:   code: 'MODULE_NOT_FOUND',
+2024-10-21 17:35:33:   requireStack: [
+2024-10-21 17:35:33:     'C:\\Users\\Admin\\OneDrive\\Desktop\\Git local\\project_backend\\server.js'
+2024-10-21 17:35:33:   ]
+2024-10-21 17:35:33: }
+2024-10-21 17:35:34: Error: Cannot find module 'express'
+2024-10-21 17:35:34: Require stack:
+2024-10-21 17:35:34: - C:\Users\Admin\OneDrive\Desktop\Git local\project_backend\server.js
+2024-10-21 17:35:34:     at Module._resolveFilename (node:internal/modules/cjs/loader:1145:15)
+2024-10-21 17:35:34:     at Hook._require.Module.require (C:\Users\Admin\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:81:25)
+2024-10-21 17:35:34:     at require (node:internal/modules/helpers:179:18)
+2024-10-21 17:35:34:     at Object.<anonymous> (C:\Users\Admin\OneDrive\Desktop\Git local\project_backend\server.js:1:17)
+2024-10-21 17:35:34:     at Module._compile (node:internal/modules/cjs/loader:1358:14)
+2024-10-21 17:35:34:     at Module._extensions..js (node:internal/modules/cjs/loader:1416:10)
+2024-10-21 17:35:34:     at Module.load (node:internal/modules/cjs/loader:1208:32)
+2024-10-21 17:35:34:     at Module._load (node:internal/modules/cjs/loader:1024:12)
+2024-10-21 17:35:34:     at Object.<anonymous> (C:\Users\Admin\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23)
+2024-10-21 17:35:34:     at Module._compile (node:internal/modules/cjs/loader:1358:14) {
+2024-10-21 17:35:34:   code: 'MODULE_NOT_FOUND',
+2024-10-21 17:35:34:   requireStack: [
+2024-10-21 17:35:34:     'C:\\Users\\Admin\\OneDrive\\Desktop\\Git local\\project_backend\\server.js'
+2024-10-21 17:35:34:   ]
+2024-10-21 17:35:34: }
+2024-10-21 17:35:35: Error: Cannot find module 'express'
+2024-10-21 17:35:35: Require stack:
+2024-10-21 17:35:35: - C:\Users\Admin\OneDrive\Desktop\Git local\project_backend\server.js
+2024-10-21 17:35:35:     at Module._resolveFilename (node:internal/modules/cjs/loader:1145:15)
+2024-10-21 17:35:35:     at Hook._require.Module.require (C:\Users\Admin\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:81:25)
+2024-10-21 17:35:35:     at require (node:internal/modules/helpers:179:18)
+2024-10-21 17:35:35:     at Object.<anonymous> (C:\Users\Admin\OneDrive\Desktop\Git local\project_backend\server.js:1:17)
+2024-10-21 17:35:35:     at Module._compile (node:internal/modules/cjs/loader:1358:14)
+2024-10-21 17:35:35:     at Module._extensions..js (node:internal/modules/cjs/loader:1416:10)
+2024-10-21 17:35:35:     at Module.load (node:internal/modules/cjs/loader:1208:32)
+2024-10-21 17:35:35:     at Module._load (node:internal/modules/cjs/loader:1024:12)
+2024-10-21 17:35:35:     at Object.<anonymous> (C:\Users\Admin\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23)
+2024-10-21 17:35:35:     at Module._compile (node:internal/modules/cjs/loader:1358:14) {
+2024-10-21 17:35:35:   code: 'MODULE_NOT_FOUND',
+2024-10-21 17:35:35:   requireStack: [
+2024-10-21 17:35:35:     'C:\\Users\\Admin\\OneDrive\\Desktop\\Git local\\project_backend\\server.js'
+2024-10-21 17:35:35:   ]
+2024-10-21 17:35:35: }
+2024-10-21 17:35:57: Error: Cannot find module 'express'
+2024-10-21 17:35:57: Require stack:
+2024-10-21 17:35:57: - C:\Users\Admin\OneDrive\Desktop\Git local\project_backend\server.js
+2024-10-21 17:35:57:     at Module._resolveFilename (node:internal/modules/cjs/loader:1145:15)
+2024-10-21 17:35:57:     at Hook._require.Module.require (C:\Users\Admin\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:81:25)
+2024-10-21 17:35:57:     at require (node:internal/modules/helpers:179:18)
+2024-10-21 17:35:57:     at Object.<anonymous> (C:\Users\Admin\OneDrive\Desktop\Git local\project_backend\server.js:1:17)
+2024-10-21 17:35:57:     at Module._compile (node:internal/modules/cjs/loader:1358:14)
+2024-10-21 17:35:57:     at Module._extensions..js (node:internal/modules/cjs/loader:1416:10)
+2024-10-21 17:35:57:     at Module.load (node:internal/modules/cjs/loader:1208:32)
+2024-10-21 17:35:57:     at Module._load (node:internal/modules/cjs/loader:1024:12)
+2024-10-21 17:35:57:     at Object.<anonymous> (C:\Users\Admin\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23)
+2024-10-21 17:35:57:     at Module._compile (node:internal/modules/cjs/loader:1358:14) {
+2024-10-21 17:35:57:   code: 'MODULE_NOT_FOUND',
+2024-10-21 17:35:57:   requireStack: [
+2024-10-21 17:35:57:     'C:\\Users\\Admin\\OneDrive\\Desktop\\Git local\\project_backend\\server.js'
+2024-10-21 17:35:57:   ]
+2024-10-21 17:35:57: }
+2024-10-21 17:35:58: Error: Cannot find module 'express'
+2024-10-21 17:35:58: Require stack:
+2024-10-21 17:35:58: - C:\Users\Admin\OneDrive\Desktop\Git local\project_backend\server.js
+2024-10-21 17:35:58:     at Module._resolveFilename (node:internal/modules/cjs/loader:1145:15)
+2024-10-21 17:35:58:     at Hook._require.Module.require (C:\Users\Admin\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:81:25)
+2024-10-21 17:35:58:     at require (node:internal/modules/helpers:179:18)
+2024-10-21 17:35:58:     at Object.<anonymous> (C:\Users\Admin\OneDrive\Desktop\Git local\project_backend\server.js:1:17)
+2024-10-21 17:35:58:     at Module._compile (node:internal/modules/cjs/loader:1358:14)
+2024-10-21 17:35:58:     at Module._extensions..js (node:internal/modules/cjs/loader:1416:10)
+2024-10-21 17:35:58:     at Module.load (node:internal/modules/cjs/loader:1208:32)
+2024-10-21 17:35:58:     at Module._load (node:internal/modules/cjs/loader:1024:12)
+2024-10-21 17:35:58:     at Object.<anonymous> (C:\Users\Admin\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23)
+2024-10-21 17:35:58:     at Module._compile (node:internal/modules/cjs/loader:1358:14) {
+2024-10-21 17:35:58:   code: 'MODULE_NOT_FOUND',
+2024-10-21 17:35:58:   requireStack: [
+2024-10-21 17:35:58:     'C:\\Users\\Admin\\OneDrive\\Desktop\\Git local\\project_backend\\server.js'
+2024-10-21 17:35:58:   ]
+2024-10-21 17:35:58: }
+2024-10-21 17:35:58: Error: Cannot find module 'express'
+2024-10-21 17:35:58: Require stack:
+2024-10-21 17:35:58: - C:\Users\Admin\OneDrive\Desktop\Git local\project_backend\server.js
+2024-10-21 17:35:58:     at Module._resolveFilename (node:internal/modules/cjs/loader:1145:15)
+2024-10-21 17:35:58:     at Hook._require.Module.require (C:\Users\Admin\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:81:25)
+2024-10-21 17:35:58:     at require (node:internal/modules/helpers:179:18)
+2024-10-21 17:35:58:     at Object.<anonymous> (C:\Users\Admin\OneDrive\Desktop\Git local\project_backend\server.js:1:17)
+2024-10-21 17:35:58:     at Module._compile (node:internal/modules/cjs/loader:1358:14)
+2024-10-21 17:35:58:     at Module._extensions..js (node:internal/modules/cjs/loader:1416:10)
+2024-10-21 17:35:58:     at Module.load (node:internal/modules/cjs/loader:1208:32)
+2024-10-21 17:35:58:     at Module._load (node:internal/modules/cjs/loader:1024:12)
+2024-10-21 17:35:58:     at Object.<anonymous> (C:\Users\Admin\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23)
+2024-10-21 17:35:58:     at Module._compile (node:internal/modules/cjs/loader:1358:14) {
+2024-10-21 17:35:58:   code: 'MODULE_NOT_FOUND',
+2024-10-21 17:35:58:   requireStack: [
+2024-10-21 17:35:58:     'C:\\Users\\Admin\\OneDrive\\Desktop\\Git local\\project_backend\\server.js'
+2024-10-21 17:35:58:   ]
+2024-10-21 17:35:58: }
+2024-10-21 17:35:59: Error: Cannot find module 'express'
+2024-10-21 17:35:59: Require stack:
+2024-10-21 17:35:59: - C:\Users\Admin\OneDrive\Desktop\Git local\project_backend\server.js
+2024-10-21 17:35:59:     at Module._resolveFilename (node:internal/modules/cjs/loader:1145:15)
+2024-10-21 17:35:59:     at Hook._require.Module.require (C:\Users\Admin\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:81:25)
+2024-10-21 17:35:59:     at require (node:internal/modules/helpers:179:18)
+2024-10-21 17:35:59:     at Object.<anonymous> (C:\Users\Admin\OneDrive\Desktop\Git local\project_backend\server.js:1:17)
+2024-10-21 17:35:59:     at Module._compile (node:internal/modules/cjs/loader:1358:14)
+2024-10-21 17:35:59:     at Module._extensions..js (node:internal/modules/cjs/loader:1416:10)
+2024-10-21 17:35:59:     at Module.load (node:internal/modules/cjs/loader:1208:32)
+2024-10-21 17:35:59:     at Module._load (node:internal/modules/cjs/loader:1024:12)
+2024-10-21 17:35:59:     at Object.<anonymous> (C:\Users\Admin\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23)
+2024-10-21 17:35:59:     at Module._compile (node:internal/modules/cjs/loader:1358:14) {
+2024-10-21 17:35:59:   code: 'MODULE_NOT_FOUND',
+2024-10-21 17:35:59:   requireStack: [
+2024-10-21 17:35:59:     'C:\\Users\\Admin\\OneDrive\\Desktop\\Git local\\project_backend\\server.js'
+2024-10-21 17:35:59:   ]
+2024-10-21 17:35:59: }
+2024-10-21 17:36:00: Error: Cannot find module 'express'
+2024-10-21 17:36:00: Require stack:
+2024-10-21 17:36:00: - C:\Users\Admin\OneDrive\Desktop\Git local\project_backend\server.js
+2024-10-21 17:36:00:     at Module._resolveFilename (node:internal/modules/cjs/loader:1145:15)
+2024-10-21 17:36:00:     at Hook._require.Module.require (C:\Users\Admin\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:81:25)
+2024-10-21 17:36:00:     at require (node:internal/modules/helpers:179:18)
+2024-10-21 17:36:00:     at Object.<anonymous> (C:\Users\Admin\OneDrive\Desktop\Git local\project_backend\server.js:1:17)
+2024-10-21 17:36:00:     at Module._compile (node:internal/modules/cjs/loader:1358:14)
+2024-10-21 17:36:00:     at Module._extensions..js (node:internal/modules/cjs/loader:1416:10)
+2024-10-21 17:36:00:     at Module.load (node:internal/modules/cjs/loader:1208:32)
+2024-10-21 17:36:00:     at Module._load (node:internal/modules/cjs/loader:1024:12)
+2024-10-21 17:36:00:     at Object.<anonymous> (C:\Users\Admin\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23)
+2024-10-21 17:36:00:     at Module._compile (node:internal/modules/cjs/loader:1358:14) {
+2024-10-21 17:36:00:   code: 'MODULE_NOT_FOUND',
+2024-10-21 17:36:00:   requireStack: [
+2024-10-21 17:36:00:     'C:\\Users\\Admin\\OneDrive\\Desktop\\Git local\\project_backend\\server.js'
+2024-10-21 17:36:00:   ]
+2024-10-21 17:36:00: }
+2024-10-21 17:36:01: Error: Cannot find module 'express'
+2024-10-21 17:36:01: Require stack:
+2024-10-21 17:36:01: - C:\Users\Admin\OneDrive\Desktop\Git local\project_backend\server.js
+2024-10-21 17:36:01:     at Module._resolveFilename (node:internal/modules/cjs/loader:1145:15)
+2024-10-21 17:36:01:     at Hook._require.Module.require (C:\Users\Admin\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:81:25)
+2024-10-21 17:36:01:     at require (node:internal/modules/helpers:179:18)
+2024-10-21 17:36:01:     at Object.<anonymous> (C:\Users\Admin\OneDrive\Desktop\Git local\project_backend\server.js:1:17)
+2024-10-21 17:36:01:     at Module._compile (node:internal/modules/cjs/loader:1358:14)
+2024-10-21 17:36:01:     at Module._extensions..js (node:internal/modules/cjs/loader:1416:10)
+2024-10-21 17:36:01:     at Module.load (node:internal/modules/cjs/loader:1208:32)
+2024-10-21 17:36:01:     at Module._load (node:internal/modules/cjs/loader:1024:12)
+2024-10-21 17:36:01:     at Object.<anonymous> (C:\Users\Admin\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23)
+2024-10-21 17:36:01:     at Module._compile (node:internal/modules/cjs/loader:1358:14) {
+2024-10-21 17:36:01:   code: 'MODULE_NOT_FOUND',
+2024-10-21 17:36:01:   requireStack: [
+2024-10-21 17:36:01:     'C:\\Users\\Admin\\OneDrive\\Desktop\\Git local\\project_backend\\server.js'
+2024-10-21 17:36:01:   ]
+2024-10-21 17:36:01: }
+2024-10-21 17:36:01: Error: Cannot find module 'express'
+2024-10-21 17:36:01: Require stack:
+2024-10-21 17:36:01: - C:\Users\Admin\OneDrive\Desktop\Git local\project_backend\server.js
+2024-10-21 17:36:01:     at Module._resolveFilename (node:internal/modules/cjs/loader:1145:15)
+2024-10-21 17:36:01:     at Hook._require.Module.require (C:\Users\Admin\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:81:25)
+2024-10-21 17:36:01:     at require (node:internal/modules/helpers:179:18)
+2024-10-21 17:36:01:     at Object.<anonymous> (C:\Users\Admin\OneDrive\Desktop\Git local\project_backend\server.js:1:17)
+2024-10-21 17:36:01:     at Module._compile (node:internal/modules/cjs/loader:1358:14)
+2024-10-21 17:36:01:     at Module._extensions..js (node:internal/modules/cjs/loader:1416:10)
+2024-10-21 17:36:01:     at Module.load (node:internal/modules/cjs/loader:1208:32)
+2024-10-21 17:36:01:     at Module._load (node:internal/modules/cjs/loader:1024:12)
+2024-10-21 17:36:01:     at Object.<anonymous> (C:\Users\Admin\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23)
+2024-10-21 17:36:01:     at Module._compile (node:internal/modules/cjs/loader:1358:14) {
+2024-10-21 17:36:01:   code: 'MODULE_NOT_FOUND',
+2024-10-21 17:36:01:   requireStack: [
+2024-10-21 17:36:01:     'C:\\Users\\Admin\\OneDrive\\Desktop\\Git local\\project_backend\\server.js'
+2024-10-21 17:36:01:   ]
+2024-10-21 17:36:01: }
+2024-10-21 17:36:02: Error: Cannot find module 'express'
+2024-10-21 17:36:02: Require stack:
+2024-10-21 17:36:02: - C:\Users\Admin\OneDrive\Desktop\Git local\project_backend\server.js
+2024-10-21 17:36:02:     at Module._resolveFilename (node:internal/modules/cjs/loader:1145:15)
+2024-10-21 17:36:02:     at Hook._require.Module.require (C:\Users\Admin\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:81:25)
+2024-10-21 17:36:02:     at require (node:internal/modules/helpers:179:18)
+2024-10-21 17:36:02:     at Object.<anonymous> (C:\Users\Admin\OneDrive\Desktop\Git local\project_backend\server.js:1:17)
+2024-10-21 17:36:02:     at Module._compile (node:internal/modules/cjs/loader:1358:14)
+2024-10-21 17:36:02:     at Module._extensions..js (node:internal/modules/cjs/loader:1416:10)
+2024-10-21 17:36:02:     at Module.load (node:internal/modules/cjs/loader:1208:32)
+2024-10-21 17:36:02:     at Module._load (node:internal/modules/cjs/loader:1024:12)
+2024-10-21 17:36:02:     at Object.<anonymous> (C:\Users\Admin\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23)
+2024-10-21 17:36:02:     at Module._compile (node:internal/modules/cjs/loader:1358:14) {
+2024-10-21 17:36:02:   code: 'MODULE_NOT_FOUND',
+2024-10-21 17:36:02:   requireStack: [
+2024-10-21 17:36:02:     'C:\\Users\\Admin\\OneDrive\\Desktop\\Git local\\project_backend\\server.js'
+2024-10-21 17:36:02:   ]
+2024-10-21 17:36:02: }
+2024-10-21 17:36:03: Error: Cannot find module 'express'
+2024-10-21 17:36:03: Require stack:
+2024-10-21 17:36:03: - C:\Users\Admin\OneDrive\Desktop\Git local\project_backend\server.js
+2024-10-21 17:36:03:     at Module._resolveFilename (node:internal/modules/cjs/loader:1145:15)
+2024-10-21 17:36:03:     at Hook._require.Module.require (C:\Users\Admin\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:81:25)
+2024-10-21 17:36:03:     at require (node:internal/modules/helpers:179:18)
+2024-10-21 17:36:03:     at Object.<anonymous> (C:\Users\Admin\OneDrive\Desktop\Git local\project_backend\server.js:1:17)
+2024-10-21 17:36:03:     at Module._compile (node:internal/modules/cjs/loader:1358:14)
+2024-10-21 17:36:03:     at Module._extensions..js (node:internal/modules/cjs/loader:1416:10)
+2024-10-21 17:36:03:     at Module.load (node:internal/modules/cjs/loader:1208:32)
+2024-10-21 17:36:03:     at Module._load (node:internal/modules/cjs/loader:1024:12)
+2024-10-21 17:36:03:     at Object.<anonymous> (C:\Users\Admin\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23)
+2024-10-21 17:36:03:     at Module._compile (node:internal/modules/cjs/loader:1358:14) {
+2024-10-21 17:36:03:   code: 'MODULE_NOT_FOUND',
+2024-10-21 17:36:03:   requireStack: [
+2024-10-21 17:36:03:     'C:\\Users\\Admin\\OneDrive\\Desktop\\Git local\\project_backend\\server.js'
+2024-10-21 17:36:03:   ]
+2024-10-21 17:36:03: }
+2024-10-21 17:36:04: Error: Cannot find module 'express'
+2024-10-21 17:36:04: Require stack:
+2024-10-21 17:36:04: - C:\Users\Admin\OneDrive\Desktop\Git local\project_backend\server.js
+2024-10-21 17:36:04:     at Module._resolveFilename (node:internal/modules/cjs/loader:1145:15)
+2024-10-21 17:36:04:     at Hook._require.Module.require (C:\Users\Admin\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:81:25)
+2024-10-21 17:36:04:     at require (node:internal/modules/helpers:179:18)
+2024-10-21 17:36:04:     at Object.<anonymous> (C:\Users\Admin\OneDrive\Desktop\Git local\project_backend\server.js:1:17)
+2024-10-21 17:36:04:     at Module._compile (node:internal/modules/cjs/loader:1358:14)
+2024-10-21 17:36:04:     at Module._extensions..js (node:internal/modules/cjs/loader:1416:10)
+2024-10-21 17:36:04:     at Module.load (node:internal/modules/cjs/loader:1208:32)
+2024-10-21 17:36:04:     at Module._load (node:internal/modules/cjs/loader:1024:12)
+2024-10-21 17:36:04:     at Object.<anonymous> (C:\Users\Admin\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23)
+2024-10-21 17:36:04:     at Module._compile (node:internal/modules/cjs/loader:1358:14) {
+2024-10-21 17:36:04:   code: 'MODULE_NOT_FOUND',
+2024-10-21 17:36:04:   requireStack: [
+2024-10-21 17:36:04:     'C:\\Users\\Admin\\OneDrive\\Desktop\\Git local\\project_backend\\server.js'
+2024-10-21 17:36:04:   ]
+2024-10-21 17:36:04: }
+2024-10-21 17:36:04: Error: Cannot find module 'express'
+2024-10-21 17:36:04: Require stack:
+2024-10-21 17:36:04: - C:\Users\Admin\OneDrive\Desktop\Git local\project_backend\server.js
+2024-10-21 17:36:04:     at Module._resolveFilename (node:internal/modules/cjs/loader:1145:15)
+2024-10-21 17:36:04:     at Hook._require.Module.require (C:\Users\Admin\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:81:25)
+2024-10-21 17:36:04:     at require (node:internal/modules/helpers:179:18)
+2024-10-21 17:36:04:     at Object.<anonymous> (C:\Users\Admin\OneDrive\Desktop\Git local\project_backend\server.js:1:17)
+2024-10-21 17:36:04:     at Module._compile (node:internal/modules/cjs/loader:1358:14)
+2024-10-21 17:36:04:     at Module._extensions..js (node:internal/modules/cjs/loader:1416:10)
+2024-10-21 17:36:04:     at Module.load (node:internal/modules/cjs/loader:1208:32)
+2024-10-21 17:36:04:     at Module._load (node:internal/modules/cjs/loader:1024:12)
+2024-10-21 17:36:04:     at Object.<anonymous> (C:\Users\Admin\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23)
+2024-10-21 17:36:04:     at Module._compile (node:internal/modules/cjs/loader:1358:14) {
+2024-10-21 17:36:04:   code: 'MODULE_NOT_FOUND',
+2024-10-21 17:36:04:   requireStack: [
+2024-10-21 17:36:04:     'C:\\Users\\Admin\\OneDrive\\Desktop\\Git local\\project_backend\\server.js'
+2024-10-21 17:36:04:   ]
+2024-10-21 17:36:04: }
+2024-10-21 17:36:05: Error: Cannot find module 'express'
+2024-10-21 17:36:05: Require stack:
+2024-10-21 17:36:05: - C:\Users\Admin\OneDrive\Desktop\Git local\project_backend\server.js
+2024-10-21 17:36:05:     at Module._resolveFilename (node:internal/modules/cjs/loader:1145:15)
+2024-10-21 17:36:05:     at Hook._require.Module.require (C:\Users\Admin\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:81:25)
+2024-10-21 17:36:05:     at require (node:internal/modules/helpers:179:18)
+2024-10-21 17:36:05:     at Object.<anonymous> (C:\Users\Admin\OneDrive\Desktop\Git local\project_backend\server.js:1:17)
+2024-10-21 17:36:05:     at Module._compile (node:internal/modules/cjs/loader:1358:14)
+2024-10-21 17:36:05:     at Module._extensions..js (node:internal/modules/cjs/loader:1416:10)
+2024-10-21 17:36:05:     at Module.load (node:internal/modules/cjs/loader:1208:32)
+2024-10-21 17:36:05:     at Module._load (node:internal/modules/cjs/loader:1024:12)
+2024-10-21 17:36:05:     at Object.<anonymous> (C:\Users\Admin\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23)
+2024-10-21 17:36:05:     at Module._compile (node:internal/modules/cjs/loader:1358:14) {
+2024-10-21 17:36:05:   code: 'MODULE_NOT_FOUND',
+2024-10-21 17:36:05:   requireStack: [
+2024-10-21 17:36:05:     'C:\\Users\\Admin\\OneDrive\\Desktop\\Git local\\project_backend\\server.js'
+2024-10-21 17:36:05:   ]
+2024-10-21 17:36:05: }
+2024-10-21 17:36:06: Error: Cannot find module 'express'
+2024-10-21 17:36:06: Require stack:
+2024-10-21 17:36:06: - C:\Users\Admin\OneDrive\Desktop\Git local\project_backend\server.js
+2024-10-21 17:36:06:     at Module._resolveFilename (node:internal/modules/cjs/loader:1145:15)
+2024-10-21 17:36:06:     at Hook._require.Module.require (C:\Users\Admin\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:81:25)
+2024-10-21 17:36:06:     at require (node:internal/modules/helpers:179:18)
+2024-10-21 17:36:06:     at Object.<anonymous> (C:\Users\Admin\OneDrive\Desktop\Git local\project_backend\server.js:1:17)
+2024-10-21 17:36:06:     at Module._compile (node:internal/modules/cjs/loader:1358:14)
+2024-10-21 17:36:06:     at Module._extensions..js (node:internal/modules/cjs/loader:1416:10)
+2024-10-21 17:36:06:     at Module.load (node:internal/modules/cjs/loader:1208:32)
+2024-10-21 17:36:06:     at Module._load (node:internal/modules/cjs/loader:1024:12)
+2024-10-21 17:36:06:     at Object.<anonymous> (C:\Users\Admin\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23)
+2024-10-21 17:36:06:     at Module._compile (node:internal/modules/cjs/loader:1358:14) {
+2024-10-21 17:36:06:   code: 'MODULE_NOT_FOUND',
+2024-10-21 17:36:06:   requireStack: [
+2024-10-21 17:36:06:     'C:\\Users\\Admin\\OneDrive\\Desktop\\Git local\\project_backend\\server.js'
+2024-10-21 17:36:06:   ]
+2024-10-21 17:36:06: }
+2024-10-21 17:36:07: Error: Cannot find module 'express'
+2024-10-21 17:36:07: Require stack:
+2024-10-21 17:36:07: - C:\Users\Admin\OneDrive\Desktop\Git local\project_backend\server.js
+2024-10-21 17:36:07:     at Module._resolveFilename (node:internal/modules/cjs/loader:1145:15)
+2024-10-21 17:36:07:     at Hook._require.Module.require (C:\Users\Admin\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:81:25)
+2024-10-21 17:36:07:     at require (node:internal/modules/helpers:179:18)
+2024-10-21 17:36:07:     at Object.<anonymous> (C:\Users\Admin\OneDrive\Desktop\Git local\project_backend\server.js:1:17)
+2024-10-21 17:36:07:     at Module._compile (node:internal/modules/cjs/loader:1358:14)
+2024-10-21 17:36:07:     at Module._extensions..js (node:internal/modules/cjs/loader:1416:10)
+2024-10-21 17:36:07:     at Module.load (node:internal/modules/cjs/loader:1208:32)
+2024-10-21 17:36:07:     at Module._load (node:internal/modules/cjs/loader:1024:12)
+2024-10-21 17:36:07:     at Object.<anonymous> (C:\Users\Admin\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23)
+2024-10-21 17:36:07:     at Module._compile (node:internal/modules/cjs/loader:1358:14) {
+2024-10-21 17:36:07:   code: 'MODULE_NOT_FOUND',
+2024-10-21 17:36:07:   requireStack: [
+2024-10-21 17:36:07:     'C:\\Users\\Admin\\OneDrive\\Desktop\\Git local\\project_backend\\server.js'
+2024-10-21 17:36:07:   ]
+2024-10-21 17:36:07: }
+2024-10-21 17:36:07: Error: Cannot find module 'express'
+2024-10-21 17:36:07: Require stack:
+2024-10-21 17:36:07: - C:\Users\Admin\OneDrive\Desktop\Git local\project_backend\server.js
+2024-10-21 17:36:07:     at Module._resolveFilename (node:internal/modules/cjs/loader:1145:15)
+2024-10-21 17:36:07:     at Hook._require.Module.require (C:\Users\Admin\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:81:25)
+2024-10-21 17:36:07:     at require (node:internal/modules/helpers:179:18)
+2024-10-21 17:36:07:     at Object.<anonymous> (C:\Users\Admin\OneDrive\Desktop\Git local\project_backend\server.js:1:17)
+2024-10-21 17:36:07:     at Module._compile (node:internal/modules/cjs/loader:1358:14)
+2024-10-21 17:36:07:     at Module._extensions..js (node:internal/modules/cjs/loader:1416:10)
+2024-10-21 17:36:07:     at Module.load (node:internal/modules/cjs/loader:1208:32)
+2024-10-21 17:36:07:     at Module._load (node:internal/modules/cjs/loader:1024:12)
+2024-10-21 17:36:07:     at Object.<anonymous> (C:\Users\Admin\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23)
+2024-10-21 17:36:07:     at Module._compile (node:internal/modules/cjs/loader:1358:14) {
+2024-10-21 17:36:07:   code: 'MODULE_NOT_FOUND',
+2024-10-21 17:36:07:   requireStack: [
+2024-10-21 17:36:07:     'C:\\Users\\Admin\\OneDrive\\Desktop\\Git local\\project_backend\\server.js'
+2024-10-21 17:36:07:   ]
+2024-10-21 17:36:07: }
+2024-10-21 17:36:08: Error: Cannot find module 'express'
+2024-10-21 17:36:08: Require stack:
+2024-10-21 17:36:08: - C:\Users\Admin\OneDrive\Desktop\Git local\project_backend\server.js
+2024-10-21 17:36:08:     at Module._resolveFilename (node:internal/modules/cjs/loader:1145:15)
+2024-10-21 17:36:08:     at Hook._require.Module.require (C:\Users\Admin\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:81:25)
+2024-10-21 17:36:08:     at require (node:internal/modules/helpers:179:18)
+2024-10-21 17:36:08:     at Object.<anonymous> (C:\Users\Admin\OneDrive\Desktop\Git local\project_backend\server.js:1:17)
+2024-10-21 17:36:08:     at Module._compile (node:internal/modules/cjs/loader:1358:14)
+2024-10-21 17:36:08:     at Module._extensions..js (node:internal/modules/cjs/loader:1416:10)
+2024-10-21 17:36:08:     at Module.load (node:internal/modules/cjs/loader:1208:32)
+2024-10-21 17:36:08:     at Module._load (node:internal/modules/cjs/loader:1024:12)
+2024-10-21 17:36:08:     at Object.<anonymous> (C:\Users\Admin\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23)
+2024-10-21 17:36:08:     at Module._compile (node:internal/modules/cjs/loader:1358:14) {
+2024-10-21 17:36:08:   code: 'MODULE_NOT_FOUND',
+2024-10-21 17:36:08:   requireStack: [
+2024-10-21 17:36:08:     'C:\\Users\\Admin\\OneDrive\\Desktop\\Git local\\project_backend\\server.js'
+2024-10-21 17:36:08:   ]
+2024-10-21 17:36:08: }
+2024-10-21 17:36:27: Error: Cannot find module 'express'
+2024-10-21 17:36:27: Require stack:
+2024-10-21 17:36:27: - C:\Users\Admin\OneDrive\Desktop\Git local\project_backend\server.js
+2024-10-21 17:36:27:     at Module._resolveFilename (node:internal/modules/cjs/loader:1145:15)
+2024-10-21 17:36:27:     at Hook._require.Module.require (C:\Users\Admin\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:81:25)
+2024-10-21 17:36:27:     at require (node:internal/modules/helpers:179:18)
+2024-10-21 17:36:27:     at Object.<anonymous> (C:\Users\Admin\OneDrive\Desktop\Git local\project_backend\server.js:1:17)
+2024-10-21 17:36:27:     at Module._compile (node:internal/modules/cjs/loader:1358:14)
+2024-10-21 17:36:27:     at Module._extensions..js (node:internal/modules/cjs/loader:1416:10)
+2024-10-21 17:36:27:     at Module.load (node:internal/modules/cjs/loader:1208:32)
+2024-10-21 17:36:27:     at Module._load (node:internal/modules/cjs/loader:1024:12)
+2024-10-21 17:36:27:     at Object.<anonymous> (C:\Users\Admin\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23)
+2024-10-21 17:36:27:     at Module._compile (node:internal/modules/cjs/loader:1358:14) {
+2024-10-21 17:36:27:   code: 'MODULE_NOT_FOUND',
+2024-10-21 17:36:27:   requireStack: [
+2024-10-21 17:36:27:     'C:\\Users\\Admin\\OneDrive\\Desktop\\Git local\\project_backend\\server.js'
+2024-10-21 17:36:27:   ]
+2024-10-21 17:36:27: }
+2024-10-21 17:36:28: Error: Cannot find module 'express'
+2024-10-21 17:36:28: Require stack:
+2024-10-21 17:36:28: - C:\Users\Admin\OneDrive\Desktop\Git local\project_backend\server.js
+2024-10-21 17:36:28:     at Module._resolveFilename (node:internal/modules/cjs/loader:1145:15)
+2024-10-21 17:36:28:     at Hook._require.Module.require (C:\Users\Admin\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:81:25)
+2024-10-21 17:36:28:     at require (node:internal/modules/helpers:179:18)
+2024-10-21 17:36:28:     at Object.<anonymous> (C:\Users\Admin\OneDrive\Desktop\Git local\project_backend\server.js:1:17)
+2024-10-21 17:36:28:     at Module._compile (node:internal/modules/cjs/loader:1358:14)
+2024-10-21 17:36:28:     at Module._extensions..js (node:internal/modules/cjs/loader:1416:10)
+2024-10-21 17:36:28:     at Module.load (node:internal/modules/cjs/loader:1208:32)
+2024-10-21 17:36:28:     at Module._load (node:internal/modules/cjs/loader:1024:12)
+2024-10-21 17:36:28:     at Object.<anonymous> (C:\Users\Admin\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23)
+2024-10-21 17:36:28:     at Module._compile (node:internal/modules/cjs/loader:1358:14) {
+2024-10-21 17:36:28:   code: 'MODULE_NOT_FOUND',
+2024-10-21 17:36:28:   requireStack: [
+2024-10-21 17:36:28:     'C:\\Users\\Admin\\OneDrive\\Desktop\\Git local\\project_backend\\server.js'
+2024-10-21 17:36:28:   ]
+2024-10-21 17:36:28: }
+2024-10-21 17:36:28: Error: Cannot find module 'express'
+2024-10-21 17:36:28: Require stack:
+2024-10-21 17:36:28: - C:\Users\Admin\OneDrive\Desktop\Git local\project_backend\server.js
+2024-10-21 17:36:28:     at Module._resolveFilename (node:internal/modules/cjs/loader:1145:15)
+2024-10-21 17:36:28:     at Hook._require.Module.require (C:\Users\Admin\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:81:25)
+2024-10-21 17:36:28:     at require (node:internal/modules/helpers:179:18)
+2024-10-21 17:36:28:     at Object.<anonymous> (C:\Users\Admin\OneDrive\Desktop\Git local\project_backend\server.js:1:17)
+2024-10-21 17:36:28:     at Module._compile (node:internal/modules/cjs/loader:1358:14)
+2024-10-21 17:36:28:     at Module._extensions..js (node:internal/modules/cjs/loader:1416:10)
+2024-10-21 17:36:28:     at Module.load (node:internal/modules/cjs/loader:1208:32)
+2024-10-21 17:36:28:     at Module._load (node:internal/modules/cjs/loader:1024:12)
+2024-10-21 17:36:28:     at Object.<anonymous> (C:\Users\Admin\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23)
+2024-10-21 17:36:28:     at Module._compile (node:internal/modules/cjs/loader:1358:14) {
+2024-10-21 17:36:28:   code: 'MODULE_NOT_FOUND',
+2024-10-21 17:36:28:   requireStack: [
+2024-10-21 17:36:28:     'C:\\Users\\Admin\\OneDrive\\Desktop\\Git local\\project_backend\\server.js'
+2024-10-21 17:36:28:   ]
+2024-10-21 17:36:28: }
+2024-10-21 17:36:29: Error: Cannot find module 'express'
+2024-10-21 17:36:29: Require stack:
+2024-10-21 17:36:29: - C:\Users\Admin\OneDrive\Desktop\Git local\project_backend\server.js
+2024-10-21 17:36:29:     at Module._resolveFilename (node:internal/modules/cjs/loader:1145:15)
+2024-10-21 17:36:29:     at Hook._require.Module.require (C:\Users\Admin\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:81:25)
+2024-10-21 17:36:29:     at require (node:internal/modules/helpers:179:18)
+2024-10-21 17:36:29:     at Object.<anonymous> (C:\Users\Admin\OneDrive\Desktop\Git local\project_backend\server.js:1:17)
+2024-10-21 17:36:29:     at Module._compile (node:internal/modules/cjs/loader:1358:14)
+2024-10-21 17:36:29:     at Module._extensions..js (node:internal/modules/cjs/loader:1416:10)
+2024-10-21 17:36:29:     at Module.load (node:internal/modules/cjs/loader:1208:32)
+2024-10-21 17:36:29:     at Module._load (node:internal/modules/cjs/loader:1024:12)
+2024-10-21 17:36:29:     at Object.<anonymous> (C:\Users\Admin\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23)
+2024-10-21 17:36:29:     at Module._compile (node:internal/modules/cjs/loader:1358:14) {
+2024-10-21 17:36:29:   code: 'MODULE_NOT_FOUND',
+2024-10-21 17:36:29:   requireStack: [
+2024-10-21 17:36:29:     'C:\\Users\\Admin\\OneDrive\\Desktop\\Git local\\project_backend\\server.js'
+2024-10-21 17:36:29:   ]
+2024-10-21 17:36:29: }
+2024-10-21 17:36:30: Error: Cannot find module 'express'
+2024-10-21 17:36:30: Require stack:
+2024-10-21 17:36:30: - C:\Users\Admin\OneDrive\Desktop\Git local\project_backend\server.js
+2024-10-21 17:36:30:     at Module._resolveFilename (node:internal/modules/cjs/loader:1145:15)
+2024-10-21 17:36:30:     at Hook._require.Module.require (C:\Users\Admin\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:81:25)
+2024-10-21 17:36:30:     at require (node:internal/modules/helpers:179:18)
+2024-10-21 17:36:30:     at Object.<anonymous> (C:\Users\Admin\OneDrive\Desktop\Git local\project_backend\server.js:1:17)
+2024-10-21 17:36:30:     at Module._compile (node:internal/modules/cjs/loader:1358:14)
+2024-10-21 17:36:30:     at Module._extensions..js (node:internal/modules/cjs/loader:1416:10)
+2024-10-21 17:36:30:     at Module.load (node:internal/modules/cjs/loader:1208:32)
+2024-10-21 17:36:30:     at Module._load (node:internal/modules/cjs/loader:1024:12)
+2024-10-21 17:36:30:     at Object.<anonymous> (C:\Users\Admin\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23)
+2024-10-21 17:36:30:     at Module._compile (node:internal/modules/cjs/loader:1358:14) {
+2024-10-21 17:36:30:   code: 'MODULE_NOT_FOUND',
+2024-10-21 17:36:30:   requireStack: [
+2024-10-21 17:36:30:     'C:\\Users\\Admin\\OneDrive\\Desktop\\Git local\\project_backend\\server.js'
+2024-10-21 17:36:30:   ]
+2024-10-21 17:36:30: }
+2024-10-21 17:36:31: Error: Cannot find module 'express'
+2024-10-21 17:36:31: Require stack:
+2024-10-21 17:36:31: - C:\Users\Admin\OneDrive\Desktop\Git local\project_backend\server.js
+2024-10-21 17:36:31:     at Module._resolveFilename (node:internal/modules/cjs/loader:1145:15)
+2024-10-21 17:36:31:     at Hook._require.Module.require (C:\Users\Admin\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:81:25)
+2024-10-21 17:36:31:     at require (node:internal/modules/helpers:179:18)
+2024-10-21 17:36:31:     at Object.<anonymous> (C:\Users\Admin\OneDrive\Desktop\Git local\project_backend\server.js:1:17)
+2024-10-21 17:36:31:     at Module._compile (node:internal/modules/cjs/loader:1358:14)
+2024-10-21 17:36:31:     at Module._extensions..js (node:internal/modules/cjs/loader:1416:10)
+2024-10-21 17:36:31:     at Module.load (node:internal/modules/cjs/loader:1208:32)
+2024-10-21 17:36:31:     at Module._load (node:internal/modules/cjs/loader:1024:12)
+2024-10-21 17:36:31:     at Object.<anonymous> (C:\Users\Admin\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23)
+2024-10-21 17:36:31:     at Module._compile (node:internal/modules/cjs/loader:1358:14) {
+2024-10-21 17:36:31:   code: 'MODULE_NOT_FOUND',
+2024-10-21 17:36:31:   requireStack: [
+2024-10-21 17:36:31:     'C:\\Users\\Admin\\OneDrive\\Desktop\\Git local\\project_backend\\server.js'
+2024-10-21 17:36:31:   ]
+2024-10-21 17:36:31: }
+2024-10-21 17:36:32: Error: Cannot find module 'express'
+2024-10-21 17:36:32: Require stack:
+2024-10-21 17:36:32: - C:\Users\Admin\OneDrive\Desktop\Git local\project_backend\server.js
+2024-10-21 17:36:32:     at Module._resolveFilename (node:internal/modules/cjs/loader:1145:15)
+2024-10-21 17:36:32:     at Hook._require.Module.require (C:\Users\Admin\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:81:25)
+2024-10-21 17:36:32:     at require (node:internal/modules/helpers:179:18)
+2024-10-21 17:36:32:     at Object.<anonymous> (C:\Users\Admin\OneDrive\Desktop\Git local\project_backend\server.js:1:17)
+2024-10-21 17:36:32:     at Module._compile (node:internal/modules/cjs/loader:1358:14)
+2024-10-21 17:36:32:     at Module._extensions..js (node:internal/modules/cjs/loader:1416:10)
+2024-10-21 17:36:32:     at Module.load (node:internal/modules/cjs/loader:1208:32)
+2024-10-21 17:36:32:     at Module._load (node:internal/modules/cjs/loader:1024:12)
+2024-10-21 17:36:32:     at Object.<anonymous> (C:\Users\Admin\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23)
+2024-10-21 17:36:32:     at Module._compile (node:internal/modules/cjs/loader:1358:14) {
+2024-10-21 17:36:32:   code: 'MODULE_NOT_FOUND',
+2024-10-21 17:36:32:   requireStack: [
+2024-10-21 17:36:32:     'C:\\Users\\Admin\\OneDrive\\Desktop\\Git local\\project_backend\\server.js'
+2024-10-21 17:36:32:   ]
+2024-10-21 17:36:32: }
+2024-10-21 17:36:33: Error: Cannot find module 'express'
+2024-10-21 17:36:33: Require stack:
+2024-10-21 17:36:33: - C:\Users\Admin\OneDrive\Desktop\Git local\project_backend\server.js
+2024-10-21 17:36:33:     at Module._resolveFilename (node:internal/modules/cjs/loader:1145:15)
+2024-10-21 17:36:33:     at Hook._require.Module.require (C:\Users\Admin\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:81:25)
+2024-10-21 17:36:33:     at require (node:internal/modules/helpers:179:18)
+2024-10-21 17:36:33:     at Object.<anonymous> (C:\Users\Admin\OneDrive\Desktop\Git local\project_backend\server.js:1:17)
+2024-10-21 17:36:33:     at Module._compile (node:internal/modules/cjs/loader:1358:14)
+2024-10-21 17:36:33:     at Module._extensions..js (node:internal/modules/cjs/loader:1416:10)
+2024-10-21 17:36:33:     at Module.load (node:internal/modules/cjs/loader:1208:32)
+2024-10-21 17:36:33:     at Module._load (node:internal/modules/cjs/loader:1024:12)
+2024-10-21 17:36:33:     at Object.<anonymous> (C:\Users\Admin\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23)
+2024-10-21 17:36:33:     at Module._compile (node:internal/modules/cjs/loader:1358:14) {
+2024-10-21 17:36:33:   code: 'MODULE_NOT_FOUND',
+2024-10-21 17:36:33:   requireStack: [
+2024-10-21 17:36:33:     'C:\\Users\\Admin\\OneDrive\\Desktop\\Git local\\project_backend\\server.js'
+2024-10-21 17:36:33:   ]
+2024-10-21 17:36:33: }
+2024-10-21 17:36:33: Error: Cannot find module 'express'
+2024-10-21 17:36:33: Require stack:
+2024-10-21 17:36:33: - C:\Users\Admin\OneDrive\Desktop\Git local\project_backend\server.js
+2024-10-21 17:36:33:     at Module._resolveFilename (node:internal/modules/cjs/loader:1145:15)
+2024-10-21 17:36:33:     at Hook._require.Module.require (C:\Users\Admin\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:81:25)
+2024-10-21 17:36:33:     at require (node:internal/modules/helpers:179:18)
+2024-10-21 17:36:33:     at Object.<anonymous> (C:\Users\Admin\OneDrive\Desktop\Git local\project_backend\server.js:1:17)
+2024-10-21 17:36:33:     at Module._compile (node:internal/modules/cjs/loader:1358:14)
+2024-10-21 17:36:33:     at Module._extensions..js (node:internal/modules/cjs/loader:1416:10)
+2024-10-21 17:36:33:     at Module.load (node:internal/modules/cjs/loader:1208:32)
+2024-10-21 17:36:33:     at Module._load (node:internal/modules/cjs/loader:1024:12)
+2024-10-21 17:36:33:     at Object.<anonymous> (C:\Users\Admin\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23)
+2024-10-21 17:36:33:     at Module._compile (node:internal/modules/cjs/loader:1358:14) {
+2024-10-21 17:36:33:   code: 'MODULE_NOT_FOUND',
+2024-10-21 17:36:33:   requireStack: [
+2024-10-21 17:36:33:     'C:\\Users\\Admin\\OneDrive\\Desktop\\Git local\\project_backend\\server.js'
+2024-10-21 17:36:33:   ]
+2024-10-21 17:36:33: }
+2024-10-21 17:36:34: Error: Cannot find module 'express'
+2024-10-21 17:36:34: Require stack:
+2024-10-21 17:36:34: - C:\Users\Admin\OneDrive\Desktop\Git local\project_backend\server.js
+2024-10-21 17:36:34:     at Module._resolveFilename (node:internal/modules/cjs/loader:1145:15)
+2024-10-21 17:36:34:     at Hook._require.Module.require (C:\Users\Admin\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:81:25)
+2024-10-21 17:36:34:     at require (node:internal/modules/helpers:179:18)
+2024-10-21 17:36:34:     at Object.<anonymous> (C:\Users\Admin\OneDrive\Desktop\Git local\project_backend\server.js:1:17)
+2024-10-21 17:36:34:     at Module._compile (node:internal/modules/cjs/loader:1358:14)
+2024-10-21 17:36:34:     at Module._extensions..js (node:internal/modules/cjs/loader:1416:10)
+2024-10-21 17:36:34:     at Module.load (node:internal/modules/cjs/loader:1208:32)
+2024-10-21 17:36:34:     at Module._load (node:internal/modules/cjs/loader:1024:12)
+2024-10-21 17:36:34:     at Object.<anonymous> (C:\Users\Admin\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23)
+2024-10-21 17:36:34:     at Module._compile (node:internal/modules/cjs/loader:1358:14) {
+2024-10-21 17:36:34:   code: 'MODULE_NOT_FOUND',
+2024-10-21 17:36:34:   requireStack: [
+2024-10-21 17:36:34:     'C:\\Users\\Admin\\OneDrive\\Desktop\\Git local\\project_backend\\server.js'
+2024-10-21 17:36:34:   ]
+2024-10-21 17:36:34: }
+2024-10-21 17:36:34: Error: Cannot find module 'express'
+2024-10-21 17:36:34: Require stack:
+2024-10-21 17:36:34: - C:\Users\Admin\OneDrive\Desktop\Git local\project_backend\server.js
+2024-10-21 17:36:34:     at Module._resolveFilename (node:internal/modules/cjs/loader:1145:15)
+2024-10-21 17:36:34:     at Hook._require.Module.require (C:\Users\Admin\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:81:25)
+2024-10-21 17:36:34:     at require (node:internal/modules/helpers:179:18)
+2024-10-21 17:36:34:     at Object.<anonymous> (C:\Users\Admin\OneDrive\Desktop\Git local\project_backend\server.js:1:17)
+2024-10-21 17:36:34:     at Module._compile (node:internal/modules/cjs/loader:1358:14)
+2024-10-21 17:36:34:     at Module._extensions..js (node:internal/modules/cjs/loader:1416:10)
+2024-10-21 17:36:34:     at Module.load (node:internal/modules/cjs/loader:1208:32)
+2024-10-21 17:36:34:     at Module._load (node:internal/modules/cjs/loader:1024:12)
+2024-10-21 17:36:34:     at Object.<anonymous> (C:\Users\Admin\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23)
+2024-10-21 17:36:34:     at Module._compile (node:internal/modules/cjs/loader:1358:14) {
+2024-10-21 17:36:34:   code: 'MODULE_NOT_FOUND',
+2024-10-21 17:36:34:   requireStack: [
+2024-10-21 17:36:34:     'C:\\Users\\Admin\\OneDrive\\Desktop\\Git local\\project_backend\\server.js'
+2024-10-21 17:36:34:   ]
+2024-10-21 17:36:34: }
+2024-10-21 17:36:35: Error: Cannot find module 'express'
+2024-10-21 17:36:35: Require stack:
+2024-10-21 17:36:35: - C:\Users\Admin\OneDrive\Desktop\Git local\project_backend\server.js
+2024-10-21 17:36:35:     at Module._resolveFilename (node:internal/modules/cjs/loader:1145:15)
+2024-10-21 17:36:35:     at Hook._require.Module.require (C:\Users\Admin\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:81:25)
+2024-10-21 17:36:35:     at require (node:internal/modules/helpers:179:18)
+2024-10-21 17:36:35:     at Object.<anonymous> (C:\Users\Admin\OneDrive\Desktop\Git local\project_backend\server.js:1:17)
+2024-10-21 17:36:35:     at Module._compile (node:internal/modules/cjs/loader:1358:14)
+2024-10-21 17:36:35:     at Module._extensions..js (node:internal/modules/cjs/loader:1416:10)
+2024-10-21 17:36:35:     at Module.load (node:internal/modules/cjs/loader:1208:32)
+2024-10-21 17:36:35:     at Module._load (node:internal/modules/cjs/loader:1024:12)
+2024-10-21 17:36:35:     at Object.<anonymous> (C:\Users\Admin\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23)
+2024-10-21 17:36:35:     at Module._compile (node:internal/modules/cjs/loader:1358:14) {
+2024-10-21 17:36:35:   code: 'MODULE_NOT_FOUND',
+2024-10-21 17:36:35:   requireStack: [
+2024-10-21 17:36:35:     'C:\\Users\\Admin\\OneDrive\\Desktop\\Git local\\project_backend\\server.js'
+2024-10-21 17:36:35:   ]
+2024-10-21 17:36:35: }
+2024-10-21 17:36:35: Error: Cannot find module 'express'
+2024-10-21 17:36:35: Require stack:
+2024-10-21 17:36:35: - C:\Users\Admin\OneDrive\Desktop\Git local\project_backend\server.js
+2024-10-21 17:36:35:     at Module._resolveFilename (node:internal/modules/cjs/loader:1145:15)
+2024-10-21 17:36:35:     at Hook._require.Module.require (C:\Users\Admin\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:81:25)
+2024-10-21 17:36:35:     at require (node:internal/modules/helpers:179:18)
+2024-10-21 17:36:35:     at Object.<anonymous> (C:\Users\Admin\OneDrive\Desktop\Git local\project_backend\server.js:1:17)
+2024-10-21 17:36:35:     at Module._compile (node:internal/modules/cjs/loader:1358:14)
+2024-10-21 17:36:35:     at Module._extensions..js (node:internal/modules/cjs/loader:1416:10)
+2024-10-21 17:36:35:     at Module.load (node:internal/modules/cjs/loader:1208:32)
+2024-10-21 17:36:35:     at Module._load (node:internal/modules/cjs/loader:1024:12)
+2024-10-21 17:36:35:     at Object.<anonymous> (C:\Users\Admin\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23)
+2024-10-21 17:36:35:     at Module._compile (node:internal/modules/cjs/loader:1358:14) {
+2024-10-21 17:36:35:   code: 'MODULE_NOT_FOUND',
+2024-10-21 17:36:35:   requireStack: [
+2024-10-21 17:36:35:     'C:\\Users\\Admin\\OneDrive\\Desktop\\Git local\\project_backend\\server.js'
+2024-10-21 17:36:35:   ]
+2024-10-21 17:36:35: }
+2024-10-21 17:36:35: Error: Cannot find module 'express'
+2024-10-21 17:36:35: Require stack:
+2024-10-21 17:36:35: - C:\Users\Admin\OneDrive\Desktop\Git local\project_backend\server.js
+2024-10-21 17:36:35:     at Module._resolveFilename (node:internal/modules/cjs/loader:1145:15)
+2024-10-21 17:36:35:     at Hook._require.Module.require (C:\Users\Admin\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:81:25)
+2024-10-21 17:36:35:     at require (node:internal/modules/helpers:179:18)
+2024-10-21 17:36:35:     at Object.<anonymous> (C:\Users\Admin\OneDrive\Desktop\Git local\project_backend\server.js:1:17)
+2024-10-21 17:36:35:     at Module._compile (node:internal/modules/cjs/loader:1358:14)
+2024-10-21 17:36:35:     at Module._extensions..js (node:internal/modules/cjs/loader:1416:10)
+2024-10-21 17:36:35:     at Module.load (node:internal/modules/cjs/loader:1208:32)
+2024-10-21 17:36:35:     at Module._load (node:internal/modules/cjs/loader:1024:12)
+2024-10-21 17:36:35:     at Object.<anonymous> (C:\Users\Admin\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23)
+2024-10-21 17:36:35:     at Module._compile (node:internal/modules/cjs/loader:1358:14) {
+2024-10-21 17:36:35:   code: 'MODULE_NOT_FOUND',
+2024-10-21 17:36:35:   requireStack: [
+2024-10-21 17:36:35:     'C:\\Users\\Admin\\OneDrive\\Desktop\\Git local\\project_backend\\server.js'
+2024-10-21 17:36:35:   ]
+2024-10-21 17:36:35: }
+2024-10-21 17:36:36: Error: Cannot find module 'express'
+2024-10-21 17:36:36: Require stack:
+2024-10-21 17:36:36: - C:\Users\Admin\OneDrive\Desktop\Git local\project_backend\server.js
+2024-10-21 17:36:36:     at Module._resolveFilename (node:internal/modules/cjs/loader:1145:15)
+2024-10-21 17:36:36:     at Hook._require.Module.require (C:\Users\Admin\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:81:25)
+2024-10-21 17:36:36:     at require (node:internal/modules/helpers:179:18)
+2024-10-21 17:36:36:     at Object.<anonymous> (C:\Users\Admin\OneDrive\Desktop\Git local\project_backend\server.js:1:17)
+2024-10-21 17:36:36:     at Module._compile (node:internal/modules/cjs/loader:1358:14)
+2024-10-21 17:36:36:     at Module._extensions..js (node:internal/modules/cjs/loader:1416:10)
+2024-10-21 17:36:36:     at Module.load (node:internal/modules/cjs/loader:1208:32)
+2024-10-21 17:36:36:     at Module._load (node:internal/modules/cjs/loader:1024:12)
+2024-10-21 17:36:36:     at Object.<anonymous> (C:\Users\Admin\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23)
+2024-10-21 17:36:36:     at Module._compile (node:internal/modules/cjs/loader:1358:14) {
+2024-10-21 17:36:36:   code: 'MODULE_NOT_FOUND',
+2024-10-21 17:36:36:   requireStack: [
+2024-10-21 17:36:36:     'C:\\Users\\Admin\\OneDrive\\Desktop\\Git local\\project_backend\\server.js'
+2024-10-21 17:36:36:   ]
+2024-10-21 17:36:36: }
+2024-10-21 17:36:37: Error: Cannot find module 'express'
+2024-10-21 17:36:37: Require stack:
+2024-10-21 17:36:37: - C:\Users\Admin\OneDrive\Desktop\Git local\project_backend\server.js
+2024-10-21 17:36:37:     at Module._resolveFilename (node:internal/modules/cjs/loader:1145:15)
+2024-10-21 17:36:37:     at Hook._require.Module.require (C:\Users\Admin\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:81:25)
+2024-10-21 17:36:37:     at require (node:internal/modules/helpers:179:18)
+2024-10-21 17:36:37:     at Object.<anonymous> (C:\Users\Admin\OneDrive\Desktop\Git local\project_backend\server.js:1:17)
+2024-10-21 17:36:37:     at Module._compile (node:internal/modules/cjs/loader:1358:14)
+2024-10-21 17:36:37:     at Module._extensions..js (node:internal/modules/cjs/loader:1416:10)
+2024-10-21 17:36:37:     at Module.load (node:internal/modules/cjs/loader:1208:32)
+2024-10-21 17:36:37:     at Module._load (node:internal/modules/cjs/loader:1024:12)
+2024-10-21 17:36:37:     at Object.<anonymous> (C:\Users\Admin\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23)
+2024-10-21 17:36:37:     at Module._compile (node:internal/modules/cjs/loader:1358:14) {
+2024-10-21 17:36:37:   code: 'MODULE_NOT_FOUND',
+2024-10-21 17:36:37:   requireStack: [
+2024-10-21 17:36:37:     'C:\\Users\\Admin\\OneDrive\\Desktop\\Git local\\project_backend\\server.js'
+2024-10-21 17:36:37:   ]
+2024-10-21 17:36:37: }
+2024-10-21 17:37:43: Error: Cannot find module 'express'
+2024-10-21 17:37:43: Require stack:
+2024-10-21 17:37:43: - C:\Users\Admin\OneDrive\Desktop\Git local\project_backend\server.js
+2024-10-21 17:37:43:     at Module._resolveFilename (node:internal/modules/cjs/loader:1145:15)
+2024-10-21 17:37:43:     at Hook._require.Module.require (C:\Users\Admin\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:81:25)
+2024-10-21 17:37:43:     at require (node:internal/modules/helpers:179:18)
+2024-10-21 17:37:43:     at Object.<anonymous> (C:\Users\Admin\OneDrive\Desktop\Git local\project_backend\server.js:1:17)
+2024-10-21 17:37:43:     at Module._compile (node:internal/modules/cjs/loader:1358:14)
+2024-10-21 17:37:43:     at Module._extensions..js (node:internal/modules/cjs/loader:1416:10)
+2024-10-21 17:37:43:     at Module.load (node:internal/modules/cjs/loader:1208:32)
+2024-10-21 17:37:43:     at Module._load (node:internal/modules/cjs/loader:1024:12)
+2024-10-21 17:37:43:     at Object.<anonymous> (C:\Users\Admin\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23)
+2024-10-21 17:37:43:     at Module._compile (node:internal/modules/cjs/loader:1358:14) {
+2024-10-21 17:37:43:   code: 'MODULE_NOT_FOUND',
+2024-10-21 17:37:43:   requireStack: [
+2024-10-21 17:37:43:     'C:\\Users\\Admin\\OneDrive\\Desktop\\Git local\\project_backend\\server.js'
+2024-10-21 17:37:43:   ]
+2024-10-21 17:37:43: }
+2024-10-21 17:37:43: Error: Cannot find module 'express'
+2024-10-21 17:37:43: Require stack:
+2024-10-21 17:37:43: - C:\Users\Admin\OneDrive\Desktop\Git local\project_backend\server.js
+2024-10-21 17:37:43:     at Module._resolveFilename (node:internal/modules/cjs/loader:1145:15)
+2024-10-21 17:37:43:     at Hook._require.Module.require (C:\Users\Admin\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:81:25)
+2024-10-21 17:37:43:     at require (node:internal/modules/helpers:179:18)
+2024-10-21 17:37:43:     at Object.<anonymous> (C:\Users\Admin\OneDrive\Desktop\Git local\project_backend\server.js:1:17)
+2024-10-21 17:37:43:     at Module._compile (node:internal/modules/cjs/loader:1358:14)
+2024-10-21 17:37:43:     at Module._extensions..js (node:internal/modules/cjs/loader:1416:10)
+2024-10-21 17:37:43:     at Module.load (node:internal/modules/cjs/loader:1208:32)
+2024-10-21 17:37:43:     at Module._load (node:internal/modules/cjs/loader:1024:12)
+2024-10-21 17:37:43:     at Object.<anonymous> (C:\Users\Admin\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23)
+2024-10-21 17:37:43:     at Module._compile (node:internal/modules/cjs/loader:1358:14) {
+2024-10-21 17:37:43:   code: 'MODULE_NOT_FOUND',
+2024-10-21 17:37:43:   requireStack: [
+2024-10-21 17:37:43:     'C:\\Users\\Admin\\OneDrive\\Desktop\\Git local\\project_backend\\server.js'
+2024-10-21 17:37:43:   ]
+2024-10-21 17:37:43: }
+2024-10-21 17:37:43: Error: Cannot find module 'express'
+2024-10-21 17:37:43: Require stack:
+2024-10-21 17:37:43: - C:\Users\Admin\OneDrive\Desktop\Git local\project_backend\server.js
+2024-10-21 17:37:43:     at Module._resolveFilename (node:internal/modules/cjs/loader:1145:15)
+2024-10-21 17:37:43:     at Hook._require.Module.require (C:\Users\Admin\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:81:25)
+2024-10-21 17:37:43:     at require (node:internal/modules/helpers:179:18)
+2024-10-21 17:37:43:     at Object.<anonymous> (C:\Users\Admin\OneDrive\Desktop\Git local\project_backend\server.js:1:17)
+2024-10-21 17:37:43:     at Module._compile (node:internal/modules/cjs/loader:1358:14)
+2024-10-21 17:37:43:     at Module._extensions..js (node:internal/modules/cjs/loader:1416:10)
+2024-10-21 17:37:43:     at Module.load (node:internal/modules/cjs/loader:1208:32)
+2024-10-21 17:37:43:     at Module._load (node:internal/modules/cjs/loader:1024:12)
+2024-10-21 17:37:43:     at Object.<anonymous> (C:\Users\Admin\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23)
+2024-10-21 17:37:43:     at Module._compile (node:internal/modules/cjs/loader:1358:14) {
+2024-10-21 17:37:43:   code: 'MODULE_NOT_FOUND',
+2024-10-21 17:37:43:   requireStack: [
+2024-10-21 17:37:43:     'C:\\Users\\Admin\\OneDrive\\Desktop\\Git local\\project_backend\\server.js'
+2024-10-21 17:37:43:   ]
+2024-10-21 17:37:43: }
+2024-10-21 17:37:44: Error: Cannot find module 'express'
+2024-10-21 17:37:44: Require stack:
+2024-10-21 17:37:44: - C:\Users\Admin\OneDrive\Desktop\Git local\project_backend\server.js
+2024-10-21 17:37:44:     at Module._resolveFilename (node:internal/modules/cjs/loader:1145:15)
+2024-10-21 17:37:44:     at Hook._require.Module.require (C:\Users\Admin\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:81:25)
+2024-10-21 17:37:44:     at require (node:internal/modules/helpers:179:18)
+2024-10-21 17:37:44:     at Object.<anonymous> (C:\Users\Admin\OneDrive\Desktop\Git local\project_backend\server.js:1:17)
+2024-10-21 17:37:44:     at Module._compile (node:internal/modules/cjs/loader:1358:14)
+2024-10-21 17:37:44:     at Module._extensions..js (node:internal/modules/cjs/loader:1416:10)
+2024-10-21 17:37:44:     at Module.load (node:internal/modules/cjs/loader:1208:32)
+2024-10-21 17:37:44:     at Module._load (node:internal/modules/cjs/loader:1024:12)
+2024-10-21 17:37:44:     at Object.<anonymous> (C:\Users\Admin\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23)
+2024-10-21 17:37:44:     at Module._compile (node:internal/modules/cjs/loader:1358:14) {
+2024-10-21 17:37:44:   code: 'MODULE_NOT_FOUND',
+2024-10-21 17:37:44:   requireStack: [
+2024-10-21 17:37:44:     'C:\\Users\\Admin\\OneDrive\\Desktop\\Git local\\project_backend\\server.js'
+2024-10-21 17:37:44:   ]
+2024-10-21 17:37:44: }
+2024-10-21 17:37:44: Error: Cannot find module 'express'
+2024-10-21 17:37:44: Require stack:
+2024-10-21 17:37:44: - C:\Users\Admin\OneDrive\Desktop\Git local\project_backend\server.js
+2024-10-21 17:37:44:     at Module._resolveFilename (node:internal/modules/cjs/loader:1145:15)
+2024-10-21 17:37:44:     at Hook._require.Module.require (C:\Users\Admin\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:81:25)
+2024-10-21 17:37:44:     at require (node:internal/modules/helpers:179:18)
+2024-10-21 17:37:44:     at Object.<anonymous> (C:\Users\Admin\OneDrive\Desktop\Git local\project_backend\server.js:1:17)
+2024-10-21 17:37:44:     at Module._compile (node:internal/modules/cjs/loader:1358:14)
+2024-10-21 17:37:44:     at Module._extensions..js (node:internal/modules/cjs/loader:1416:10)
+2024-10-21 17:37:44:     at Module.load (node:internal/modules/cjs/loader:1208:32)
+2024-10-21 17:37:44:     at Module._load (node:internal/modules/cjs/loader:1024:12)
+2024-10-21 17:37:44:     at Object.<anonymous> (C:\Users\Admin\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23)
+2024-10-21 17:37:44:     at Module._compile (node:internal/modules/cjs/loader:1358:14) {
+2024-10-21 17:37:44:   code: 'MODULE_NOT_FOUND',
+2024-10-21 17:37:44:   requireStack: [
+2024-10-21 17:37:44:     'C:\\Users\\Admin\\OneDrive\\Desktop\\Git local\\project_backend\\server.js'
+2024-10-21 17:37:44:   ]
+2024-10-21 17:37:44: }
+2024-10-21 17:37:44: Error: Cannot find module 'express'
+2024-10-21 17:37:44: Require stack:
+2024-10-21 17:37:44: - C:\Users\Admin\OneDrive\Desktop\Git local\project_backend\server.js
+2024-10-21 17:37:44:     at Module._resolveFilename (node:internal/modules/cjs/loader:1145:15)
+2024-10-21 17:37:44:     at Hook._require.Module.require (C:\Users\Admin\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:81:25)
+2024-10-21 17:37:44:     at require (node:internal/modules/helpers:179:18)
+2024-10-21 17:37:44:     at Object.<anonymous> (C:\Users\Admin\OneDrive\Desktop\Git local\project_backend\server.js:1:17)
+2024-10-21 17:37:44:     at Module._compile (node:internal/modules/cjs/loader:1358:14)
+2024-10-21 17:37:44:     at Module._extensions..js (node:internal/modules/cjs/loader:1416:10)
+2024-10-21 17:37:44:     at Module.load (node:internal/modules/cjs/loader:1208:32)
+2024-10-21 17:37:44:     at Module._load (node:internal/modules/cjs/loader:1024:12)
+2024-10-21 17:37:44:     at Object.<anonymous> (C:\Users\Admin\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23)
+2024-10-21 17:37:44:     at Module._compile (node:internal/modules/cjs/loader:1358:14) {
+2024-10-21 17:37:44:   code: 'MODULE_NOT_FOUND',
+2024-10-21 17:37:44:   requireStack: [
+2024-10-21 17:37:44:     'C:\\Users\\Admin\\OneDrive\\Desktop\\Git local\\project_backend\\server.js'
+2024-10-21 17:37:44:   ]
+2024-10-21 17:37:44: }
+2024-10-21 17:37:45: Error: Cannot find module 'express'
+2024-10-21 17:37:45: Require stack:
+2024-10-21 17:37:45: - C:\Users\Admin\OneDrive\Desktop\Git local\project_backend\server.js
+2024-10-21 17:37:45:     at Module._resolveFilename (node:internal/modules/cjs/loader:1145:15)
+2024-10-21 17:37:45:     at Hook._require.Module.require (C:\Users\Admin\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:81:25)
+2024-10-21 17:37:45:     at require (node:internal/modules/helpers:179:18)
+2024-10-21 17:37:45:     at Object.<anonymous> (C:\Users\Admin\OneDrive\Desktop\Git local\project_backend\server.js:1:17)
+2024-10-21 17:37:45:     at Module._compile (node:internal/modules/cjs/loader:1358:14)
+2024-10-21 17:37:45:     at Module._extensions..js (node:internal/modules/cjs/loader:1416:10)
+2024-10-21 17:37:45:     at Module.load (node:internal/modules/cjs/loader:1208:32)
+2024-10-21 17:37:45:     at Module._load (node:internal/modules/cjs/loader:1024:12)
+2024-10-21 17:37:45:     at Object.<anonymous> (C:\Users\Admin\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23)
+2024-10-21 17:37:45:     at Module._compile (node:internal/modules/cjs/loader:1358:14) {
+2024-10-21 17:37:45:   code: 'MODULE_NOT_FOUND',
+2024-10-21 17:37:45:   requireStack: [
+2024-10-21 17:37:45:     'C:\\Users\\Admin\\OneDrive\\Desktop\\Git local\\project_backend\\server.js'
+2024-10-21 17:37:45:   ]
+2024-10-21 17:37:45: }
+2024-10-21 17:37:45: Error: Cannot find module 'express'
+2024-10-21 17:37:45: Require stack:
+2024-10-21 17:37:45: - C:\Users\Admin\OneDrive\Desktop\Git local\project_backend\server.js
+2024-10-21 17:37:45:     at Module._resolveFilename (node:internal/modules/cjs/loader:1145:15)
+2024-10-21 17:37:45:     at Hook._require.Module.require (C:\Users\Admin\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:81:25)
+2024-10-21 17:37:45:     at require (node:internal/modules/helpers:179:18)
+2024-10-21 17:37:45:     at Object.<anonymous> (C:\Users\Admin\OneDrive\Desktop\Git local\project_backend\server.js:1:17)
+2024-10-21 17:37:45:     at Module._compile (node:internal/modules/cjs/loader:1358:14)
+2024-10-21 17:37:45:     at Module._extensions..js (node:internal/modules/cjs/loader:1416:10)
+2024-10-21 17:37:45:     at Module.load (node:internal/modules/cjs/loader:1208:32)
+2024-10-21 17:37:45:     at Module._load (node:internal/modules/cjs/loader:1024:12)
+2024-10-21 17:37:45:     at Object.<anonymous> (C:\Users\Admin\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23)
+2024-10-21 17:37:45:     at Module._compile (node:internal/modules/cjs/loader:1358:14) {
+2024-10-21 17:37:45:   code: 'MODULE_NOT_FOUND',
+2024-10-21 17:37:45:   requireStack: [
+2024-10-21 17:37:45:     'C:\\Users\\Admin\\OneDrive\\Desktop\\Git local\\project_backend\\server.js'
+2024-10-21 17:37:45:   ]
+2024-10-21 17:37:45: }
+2024-10-21 17:37:45: Error: Cannot find module 'express'
+2024-10-21 17:37:45: Require stack:
+2024-10-21 17:37:45: - C:\Users\Admin\OneDrive\Desktop\Git local\project_backend\server.js
+2024-10-21 17:37:45:     at Module._resolveFilename (node:internal/modules/cjs/loader:1145:15)
+2024-10-21 17:37:45:     at Hook._require.Module.require (C:\Users\Admin\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:81:25)
+2024-10-21 17:37:45:     at require (node:internal/modules/helpers:179:18)
+2024-10-21 17:37:45:     at Object.<anonymous> (C:\Users\Admin\OneDrive\Desktop\Git local\project_backend\server.js:1:17)
+2024-10-21 17:37:45:     at Module._compile (node:internal/modules/cjs/loader:1358:14)
+2024-10-21 17:37:45:     at Module._extensions..js (node:internal/modules/cjs/loader:1416:10)
+2024-10-21 17:37:45:     at Module.load (node:internal/modules/cjs/loader:1208:32)
+2024-10-21 17:37:45:     at Module._load (node:internal/modules/cjs/loader:1024:12)
+2024-10-21 17:37:45:     at Object.<anonymous> (C:\Users\Admin\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23)
+2024-10-21 17:37:45:     at Module._compile (node:internal/modules/cjs/loader:1358:14) {
+2024-10-21 17:37:45:   code: 'MODULE_NOT_FOUND',
+2024-10-21 17:37:45:   requireStack: [
+2024-10-21 17:37:45:     'C:\\Users\\Admin\\OneDrive\\Desktop\\Git local\\project_backend\\server.js'
+2024-10-21 17:37:45:   ]
+2024-10-21 17:37:45: }
+2024-10-21 17:37:46: Error: Cannot find module 'express'
+2024-10-21 17:37:46: Require stack:
+2024-10-21 17:37:46: - C:\Users\Admin\OneDrive\Desktop\Git local\project_backend\server.js
+2024-10-21 17:37:46:     at Module._resolveFilename (node:internal/modules/cjs/loader:1145:15)
+2024-10-21 17:37:46:     at Hook._require.Module.require (C:\Users\Admin\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:81:25)
+2024-10-21 17:37:46:     at require (node:internal/modules/helpers:179:18)
+2024-10-21 17:37:46:     at Object.<anonymous> (C:\Users\Admin\OneDrive\Desktop\Git local\project_backend\server.js:1:17)
+2024-10-21 17:37:46:     at Module._compile (node:internal/modules/cjs/loader:1358:14)
+2024-10-21 17:37:46:     at Module._extensions..js (node:internal/modules/cjs/loader:1416:10)
+2024-10-21 17:37:46:     at Module.load (node:internal/modules/cjs/loader:1208:32)
+2024-10-21 17:37:46:     at Module._load (node:internal/modules/cjs/loader:1024:12)
+2024-10-21 17:37:46:     at Object.<anonymous> (C:\Users\Admin\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23)
+2024-10-21 17:37:46:     at Module._compile (node:internal/modules/cjs/loader:1358:14) {
+2024-10-21 17:37:46:   code: 'MODULE_NOT_FOUND',
+2024-10-21 17:37:46:   requireStack: [
+2024-10-21 17:37:46:     'C:\\Users\\Admin\\OneDrive\\Desktop\\Git local\\project_backend\\server.js'
+2024-10-21 17:37:46:   ]
+2024-10-21 17:37:46: }
+2024-10-21 17:37:46: Error: Cannot find module 'express'
+2024-10-21 17:37:46: Require stack:
+2024-10-21 17:37:46: - C:\Users\Admin\OneDrive\Desktop\Git local\project_backend\server.js
+2024-10-21 17:37:46:     at Module._resolveFilename (node:internal/modules/cjs/loader:1145:15)
+2024-10-21 17:37:46:     at Hook._require.Module.require (C:\Users\Admin\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:81:25)
+2024-10-21 17:37:46:     at require (node:internal/modules/helpers:179:18)
+2024-10-21 17:37:46:     at Object.<anonymous> (C:\Users\Admin\OneDrive\Desktop\Git local\project_backend\server.js:1:17)
+2024-10-21 17:37:46:     at Module._compile (node:internal/modules/cjs/loader:1358:14)
+2024-10-21 17:37:46:     at Module._extensions..js (node:internal/modules/cjs/loader:1416:10)
+2024-10-21 17:37:46:     at Module.load (node:internal/modules/cjs/loader:1208:32)
+2024-10-21 17:37:46:     at Module._load (node:internal/modules/cjs/loader:1024:12)
+2024-10-21 17:37:46:     at Object.<anonymous> (C:\Users\Admin\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23)
+2024-10-21 17:37:46:     at Module._compile (node:internal/modules/cjs/loader:1358:14) {
+2024-10-21 17:37:46:   code: 'MODULE_NOT_FOUND',
+2024-10-21 17:37:46:   requireStack: [
+2024-10-21 17:37:46:     'C:\\Users\\Admin\\OneDrive\\Desktop\\Git local\\project_backend\\server.js'
+2024-10-21 17:37:46:   ]
+2024-10-21 17:37:46: }
+2024-10-21 17:37:46: Error: Cannot find module 'express'
+2024-10-21 17:37:46: Require stack:
+2024-10-21 17:37:46: - C:\Users\Admin\OneDrive\Desktop\Git local\project_backend\server.js
+2024-10-21 17:37:46:     at Module._resolveFilename (node:internal/modules/cjs/loader:1145:15)
+2024-10-21 17:37:46:     at Hook._require.Module.require (C:\Users\Admin\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:81:25)
+2024-10-21 17:37:46:     at require (node:internal/modules/helpers:179:18)
+2024-10-21 17:37:46:     at Object.<anonymous> (C:\Users\Admin\OneDrive\Desktop\Git local\project_backend\server.js:1:17)
+2024-10-21 17:37:46:     at Module._compile (node:internal/modules/cjs/loader:1358:14)
+2024-10-21 17:37:46:     at Module._extensions..js (node:internal/modules/cjs/loader:1416:10)
+2024-10-21 17:37:46:     at Module.load (node:internal/modules/cjs/loader:1208:32)
+2024-10-21 17:37:46:     at Module._load (node:internal/modules/cjs/loader:1024:12)
+2024-10-21 17:37:46:     at Object.<anonymous> (C:\Users\Admin\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23)
+2024-10-21 17:37:46:     at Module._compile (node:internal/modules/cjs/loader:1358:14) {
+2024-10-21 17:37:46:   code: 'MODULE_NOT_FOUND',
+2024-10-21 17:37:46:   requireStack: [
+2024-10-21 17:37:46:     'C:\\Users\\Admin\\OneDrive\\Desktop\\Git local\\project_backend\\server.js'
+2024-10-21 17:37:46:   ]
+2024-10-21 17:37:46: }
+2024-10-21 17:37:47: Error: Cannot find module 'express'
+2024-10-21 17:37:47: Require stack:
+2024-10-21 17:37:47: - C:\Users\Admin\OneDrive\Desktop\Git local\project_backend\server.js
+2024-10-21 17:37:47:     at Module._resolveFilename (node:internal/modules/cjs/loader:1145:15)
+2024-10-21 17:37:47:     at Hook._require.Module.require (C:\Users\Admin\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:81:25)
+2024-10-21 17:37:47:     at require (node:internal/modules/helpers:179:18)
+2024-10-21 17:37:47:     at Object.<anonymous> (C:\Users\Admin\OneDrive\Desktop\Git local\project_backend\server.js:1:17)
+2024-10-21 17:37:47:     at Module._compile (node:internal/modules/cjs/loader:1358:14)
+2024-10-21 17:37:47:     at Module._extensions..js (node:internal/modules/cjs/loader:1416:10)
+2024-10-21 17:37:47:     at Module.load (node:internal/modules/cjs/loader:1208:32)
+2024-10-21 17:37:47:     at Module._load (node:internal/modules/cjs/loader:1024:12)
+2024-10-21 17:37:47:     at Object.<anonymous> (C:\Users\Admin\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23)
+2024-10-21 17:37:47:     at Module._compile (node:internal/modules/cjs/loader:1358:14) {
+2024-10-21 17:37:47:   code: 'MODULE_NOT_FOUND',
+2024-10-21 17:37:47:   requireStack: [
+2024-10-21 17:37:47:     'C:\\Users\\Admin\\OneDrive\\Desktop\\Git local\\project_backend\\server.js'
+2024-10-21 17:37:47:   ]
+2024-10-21 17:37:47: }
+2024-10-21 17:37:47: Error: Cannot find module 'express'
+2024-10-21 17:37:47: Require stack:
+2024-10-21 17:37:47: - C:\Users\Admin\OneDrive\Desktop\Git local\project_backend\server.js
+2024-10-21 17:37:47:     at Module._resolveFilename (node:internal/modules/cjs/loader:1145:15)
+2024-10-21 17:37:47:     at Hook._require.Module.require (C:\Users\Admin\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:81:25)
+2024-10-21 17:37:47:     at require (node:internal/modules/helpers:179:18)
+2024-10-21 17:37:47:     at Object.<anonymous> (C:\Users\Admin\OneDrive\Desktop\Git local\project_backend\server.js:1:17)
+2024-10-21 17:37:47:     at Module._compile (node:internal/modules/cjs/loader:1358:14)
+2024-10-21 17:37:47:     at Module._extensions..js (node:internal/modules/cjs/loader:1416:10)
+2024-10-21 17:37:47:     at Module.load (node:internal/modules/cjs/loader:1208:32)
+2024-10-21 17:37:47:     at Module._load (node:internal/modules/cjs/loader:1024:12)
+2024-10-21 17:37:47:     at Object.<anonymous> (C:\Users\Admin\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23)
+2024-10-21 17:37:47:     at Module._compile (node:internal/modules/cjs/loader:1358:14) {
+2024-10-21 17:37:47:   code: 'MODULE_NOT_FOUND',
+2024-10-21 17:37:47:   requireStack: [
+2024-10-21 17:37:47:     'C:\\Users\\Admin\\OneDrive\\Desktop\\Git local\\project_backend\\server.js'
+2024-10-21 17:37:47:   ]
+2024-10-21 17:37:47: }
+2024-10-21 17:37:47: Error: Cannot find module 'express'
+2024-10-21 17:37:47: Require stack:
+2024-10-21 17:37:47: - C:\Users\Admin\OneDrive\Desktop\Git local\project_backend\server.js
+2024-10-21 17:37:47:     at Module._resolveFilename (node:internal/modules/cjs/loader:1145:15)
+2024-10-21 17:37:47:     at Hook._require.Module.require (C:\Users\Admin\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:81:25)
+2024-10-21 17:37:47:     at require (node:internal/modules/helpers:179:18)
+2024-10-21 17:37:47:     at Object.<anonymous> (C:\Users\Admin\OneDrive\Desktop\Git local\project_backend\server.js:1:17)
+2024-10-21 17:37:47:     at Module._compile (node:internal/modules/cjs/loader:1358:14)
+2024-10-21 17:37:47:     at Module._extensions..js (node:internal/modules/cjs/loader:1416:10)
+2024-10-21 17:37:47:     at Module.load (node:internal/modules/cjs/loader:1208:32)
+2024-10-21 17:37:47:     at Module._load (node:internal/modules/cjs/loader:1024:12)
+2024-10-21 17:37:47:     at Object.<anonymous> (C:\Users\Admin\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23)
+2024-10-21 17:37:47:     at Module._compile (node:internal/modules/cjs/loader:1358:14) {
+2024-10-21 17:37:47:   code: 'MODULE_NOT_FOUND',
+2024-10-21 17:37:47:   requireStack: [
+2024-10-21 17:37:47:     'C:\\Users\\Admin\\OneDrive\\Desktop\\Git local\\project_backend\\server.js'
+2024-10-21 17:37:47:   ]
+2024-10-21 17:37:47: }
+2024-10-21 17:37:48: Error: Cannot find module 'express'
+2024-10-21 17:37:48: Require stack:
+2024-10-21 17:37:48: - C:\Users\Admin\OneDrive\Desktop\Git local\project_backend\server.js
+2024-10-21 17:37:48:     at Module._resolveFilename (node:internal/modules/cjs/loader:1145:15)
+2024-10-21 17:37:48:     at Hook._require.Module.require (C:\Users\Admin\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:81:25)
+2024-10-21 17:37:48:     at require (node:internal/modules/helpers:179:18)
+2024-10-21 17:37:48:     at Object.<anonymous> (C:\Users\Admin\OneDrive\Desktop\Git local\project_backend\server.js:1:17)
+2024-10-21 17:37:48:     at Module._compile (node:internal/modules/cjs/loader:1358:14)
+2024-10-21 17:37:48:     at Module._extensions..js (node:internal/modules/cjs/loader:1416:10)
+2024-10-21 17:37:48:     at Module.load (node:internal/modules/cjs/loader:1208:32)
+2024-10-21 17:37:48:     at Module._load (node:internal/modules/cjs/loader:1024:12)
+2024-10-21 17:37:48:     at Object.<anonymous> (C:\Users\Admin\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23)
+2024-10-21 17:37:48:     at Module._compile (node:internal/modules/cjs/loader:1358:14) {
+2024-10-21 17:37:48:   code: 'MODULE_NOT_FOUND',
+2024-10-21 17:37:48:   requireStack: [
+2024-10-21 17:37:48:     'C:\\Users\\Admin\\OneDrive\\Desktop\\Git local\\project_backend\\server.js'
+2024-10-21 17:37:48:   ]
+2024-10-21 17:37:48: }
+2024-10-21 17:38:33: Error: Cannot find module 'express'
+2024-10-21 17:38:33: Require stack:
+2024-10-21 17:38:33: - C:\Users\Admin\OneDrive\Desktop\Git local\project_backend\server.js
+2024-10-21 17:38:33:     at Module._resolveFilename (node:internal/modules/cjs/loader:1145:15)
+2024-10-21 17:38:33:     at Hook._require.Module.require (C:\Users\Admin\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:81:25)
+2024-10-21 17:38:33:     at require (node:internal/modules/helpers:179:18)
+2024-10-21 17:38:33:     at Object.<anonymous> (C:\Users\Admin\OneDrive\Desktop\Git local\project_backend\server.js:1:17)
+2024-10-21 17:38:33:     at Module._compile (node:internal/modules/cjs/loader:1358:14)
+2024-10-21 17:38:33:     at Module._extensions..js (node:internal/modules/cjs/loader:1416:10)
+2024-10-21 17:38:33:     at Module.load (node:internal/modules/cjs/loader:1208:32)
+2024-10-21 17:38:33:     at Module._load (node:internal/modules/cjs/loader:1024:12)
+2024-10-21 17:38:33:     at Object.<anonymous> (C:\Users\Admin\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23)
+2024-10-21 17:38:33:     at Module._compile (node:internal/modules/cjs/loader:1358:14) {
+2024-10-21 17:38:33:   code: 'MODULE_NOT_FOUND',
+2024-10-21 17:38:33:   requireStack: [
+2024-10-21 17:38:33:     'C:\\Users\\Admin\\OneDrive\\Desktop\\Git local\\project_backend\\server.js'
+2024-10-21 17:38:33:   ]
+2024-10-21 17:38:33: }
+2024-10-21 17:38:33: Error: Cannot find module 'express'
+2024-10-21 17:38:33: Require stack:
+2024-10-21 17:38:33: - C:\Users\Admin\OneDrive\Desktop\Git local\project_backend\server.js
+2024-10-21 17:38:33:     at Module._resolveFilename (node:internal/modules/cjs/loader:1145:15)
+2024-10-21 17:38:33:     at Hook._require.Module.require (C:\Users\Admin\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:81:25)
+2024-10-21 17:38:33:     at require (node:internal/modules/helpers:179:18)
+2024-10-21 17:38:33:     at Object.<anonymous> (C:\Users\Admin\OneDrive\Desktop\Git local\project_backend\server.js:1:17)
+2024-10-21 17:38:33:     at Module._compile (node:internal/modules/cjs/loader:1358:14)
+2024-10-21 17:38:33:     at Module._extensions..js (node:internal/modules/cjs/loader:1416:10)
+2024-10-21 17:38:33:     at Module.load (node:internal/modules/cjs/loader:1208:32)
+2024-10-21 17:38:33:     at Module._load (node:internal/modules/cjs/loader:1024:12)
+2024-10-21 17:38:33:     at Object.<anonymous> (C:\Users\Admin\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23)
+2024-10-21 17:38:33:     at Module._compile (node:internal/modules/cjs/loader:1358:14) {
+2024-10-21 17:38:33:   code: 'MODULE_NOT_FOUND',
+2024-10-21 17:38:33:   requireStack: [
+2024-10-21 17:38:33:     'C:\\Users\\Admin\\OneDrive\\Desktop\\Git local\\project_backend\\server.js'
+2024-10-21 17:38:33:   ]
+2024-10-21 17:38:33: }
+2024-10-21 17:38:34: Error: Cannot find module 'express'
+2024-10-21 17:38:34: Require stack:
+2024-10-21 17:38:34: - C:\Users\Admin\OneDrive\Desktop\Git local\project_backend\server.js
+2024-10-21 17:38:34:     at Module._resolveFilename (node:internal/modules/cjs/loader:1145:15)
+2024-10-21 17:38:34:     at Hook._require.Module.require (C:\Users\Admin\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:81:25)
+2024-10-21 17:38:34:     at require (node:internal/modules/helpers:179:18)
+2024-10-21 17:38:34:     at Object.<anonymous> (C:\Users\Admin\OneDrive\Desktop\Git local\project_backend\server.js:1:17)
+2024-10-21 17:38:34:     at Module._compile (node:internal/modules/cjs/loader:1358:14)
+2024-10-21 17:38:34:     at Module._extensions..js (node:internal/modules/cjs/loader:1416:10)
+2024-10-21 17:38:34:     at Module.load (node:internal/modules/cjs/loader:1208:32)
+2024-10-21 17:38:34:     at Module._load (node:internal/modules/cjs/loader:1024:12)
+2024-10-21 17:38:34:     at Object.<anonymous> (C:\Users\Admin\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23)
+2024-10-21 17:38:34:     at Module._compile (node:internal/modules/cjs/loader:1358:14) {
+2024-10-21 17:38:34:   code: 'MODULE_NOT_FOUND',
+2024-10-21 17:38:34:   requireStack: [
+2024-10-21 17:38:34:     'C:\\Users\\Admin\\OneDrive\\Desktop\\Git local\\project_backend\\server.js'
+2024-10-21 17:38:34:   ]
+2024-10-21 17:38:34: }
+2024-10-21 17:38:35: Error: Cannot find module 'express'
+2024-10-21 17:38:35: Require stack:
+2024-10-21 17:38:35: - C:\Users\Admin\OneDrive\Desktop\Git local\project_backend\server.js
+2024-10-21 17:38:35:     at Module._resolveFilename (node:internal/modules/cjs/loader:1145:15)
+2024-10-21 17:38:35:     at Hook._require.Module.require (C:\Users\Admin\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:81:25)
+2024-10-21 17:38:35:     at require (node:internal/modules/helpers:179:18)
+2024-10-21 17:38:35:     at Object.<anonymous> (C:\Users\Admin\OneDrive\Desktop\Git local\project_backend\server.js:1:17)
+2024-10-21 17:38:35:     at Module._compile (node:internal/modules/cjs/loader:1358:14)
+2024-10-21 17:38:35:     at Module._extensions..js (node:internal/modules/cjs/loader:1416:10)
+2024-10-21 17:38:35:     at Module.load (node:internal/modules/cjs/loader:1208:32)
+2024-10-21 17:38:35:     at Module._load (node:internal/modules/cjs/loader:1024:12)
+2024-10-21 17:38:35:     at Object.<anonymous> (C:\Users\Admin\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23)
+2024-10-21 17:38:35:     at Module._compile (node:internal/modules/cjs/loader:1358:14) {
+2024-10-21 17:38:35:   code: 'MODULE_NOT_FOUND',
+2024-10-21 17:38:35:   requireStack: [
+2024-10-21 17:38:35:     'C:\\Users\\Admin\\OneDrive\\Desktop\\Git local\\project_backend\\server.js'
+2024-10-21 17:38:35:   ]
+2024-10-21 17:38:35: }
+2024-10-21 17:38:36: Error: Cannot find module 'express'
+2024-10-21 17:38:36: Require stack:
+2024-10-21 17:38:36: - C:\Users\Admin\OneDrive\Desktop\Git local\project_backend\server.js
+2024-10-21 17:38:36:     at Module._resolveFilename (node:internal/modules/cjs/loader:1145:15)
+2024-10-21 17:38:36:     at Hook._require.Module.require (C:\Users\Admin\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:81:25)
+2024-10-21 17:38:36:     at require (node:internal/modules/helpers:179:18)
+2024-10-21 17:38:36:     at Object.<anonymous> (C:\Users\Admin\OneDrive\Desktop\Git local\project_backend\server.js:1:17)
+2024-10-21 17:38:36:     at Module._compile (node:internal/modules/cjs/loader:1358:14)
+2024-10-21 17:38:36:     at Module._extensions..js (node:internal/modules/cjs/loader:1416:10)
+2024-10-21 17:38:36:     at Module.load (node:internal/modules/cjs/loader:1208:32)
+2024-10-21 17:38:36:     at Module._load (node:internal/modules/cjs/loader:1024:12)
+2024-10-21 17:38:36:     at Object.<anonymous> (C:\Users\Admin\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23)
+2024-10-21 17:38:36:     at Module._compile (node:internal/modules/cjs/loader:1358:14) {
+2024-10-21 17:38:36:   code: 'MODULE_NOT_FOUND',
+2024-10-21 17:38:36:   requireStack: [
+2024-10-21 17:38:36:     'C:\\Users\\Admin\\OneDrive\\Desktop\\Git local\\project_backend\\server.js'
+2024-10-21 17:38:36:   ]
+2024-10-21 17:38:36: }
+2024-10-21 17:38:36: Error: Cannot find module 'express'
+2024-10-21 17:38:36: Require stack:
+2024-10-21 17:38:36: - C:\Users\Admin\OneDrive\Desktop\Git local\project_backend\server.js
+2024-10-21 17:38:36:     at Module._resolveFilename (node:internal/modules/cjs/loader:1145:15)
+2024-10-21 17:38:36:     at Hook._require.Module.require (C:\Users\Admin\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:81:25)
+2024-10-21 17:38:36:     at require (node:internal/modules/helpers:179:18)
+2024-10-21 17:38:36:     at Object.<anonymous> (C:\Users\Admin\OneDrive\Desktop\Git local\project_backend\server.js:1:17)
+2024-10-21 17:38:36:     at Module._compile (node:internal/modules/cjs/loader:1358:14)
+2024-10-21 17:38:36:     at Module._extensions..js (node:internal/modules/cjs/loader:1416:10)
+2024-10-21 17:38:36:     at Module.load (node:internal/modules/cjs/loader:1208:32)
+2024-10-21 17:38:36:     at Module._load (node:internal/modules/cjs/loader:1024:12)
+2024-10-21 17:38:36:     at Object.<anonymous> (C:\Users\Admin\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23)
+2024-10-21 17:38:36:     at Module._compile (node:internal/modules/cjs/loader:1358:14) {
+2024-10-21 17:38:36:   code: 'MODULE_NOT_FOUND',
+2024-10-21 17:38:36:   requireStack: [
+2024-10-21 17:38:36:     'C:\\Users\\Admin\\OneDrive\\Desktop\\Git local\\project_backend\\server.js'
+2024-10-21 17:38:36:   ]
+2024-10-21 17:38:36: }
+2024-10-21 17:38:37: Error: Cannot find module 'express'
+2024-10-21 17:38:37: Require stack:
+2024-10-21 17:38:37: - C:\Users\Admin\OneDrive\Desktop\Git local\project_backend\server.js
+2024-10-21 17:38:37:     at Module._resolveFilename (node:internal/modules/cjs/loader:1145:15)
+2024-10-21 17:38:37:     at Hook._require.Module.require (C:\Users\Admin\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:81:25)
+2024-10-21 17:38:37:     at require (node:internal/modules/helpers:179:18)
+2024-10-21 17:38:37:     at Object.<anonymous> (C:\Users\Admin\OneDrive\Desktop\Git local\project_backend\server.js:1:17)
+2024-10-21 17:38:37:     at Module._compile (node:internal/modules/cjs/loader:1358:14)
+2024-10-21 17:38:37:     at Module._extensions..js (node:internal/modules/cjs/loader:1416:10)
+2024-10-21 17:38:37:     at Module.load (node:internal/modules/cjs/loader:1208:32)
+2024-10-21 17:38:37:     at Module._load (node:internal/modules/cjs/loader:1024:12)
+2024-10-21 17:38:37:     at Object.<anonymous> (C:\Users\Admin\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23)
+2024-10-21 17:38:37:     at Module._compile (node:internal/modules/cjs/loader:1358:14) {
+2024-10-21 17:38:37:   code: 'MODULE_NOT_FOUND',
+2024-10-21 17:38:37:   requireStack: [
+2024-10-21 17:38:37:     'C:\\Users\\Admin\\OneDrive\\Desktop\\Git local\\project_backend\\server.js'
+2024-10-21 17:38:37:   ]
+2024-10-21 17:38:37: }
+2024-10-21 17:38:38: Error: Cannot find module 'express'
+2024-10-21 17:38:38: Require stack:
+2024-10-21 17:38:38: - C:\Users\Admin\OneDrive\Desktop\Git local\project_backend\server.js
+2024-10-21 17:38:38:     at Module._resolveFilename (node:internal/modules/cjs/loader:1145:15)
+2024-10-21 17:38:38:     at Hook._require.Module.require (C:\Users\Admin\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:81:25)
+2024-10-21 17:38:38:     at require (node:internal/modules/helpers:179:18)
+2024-10-21 17:38:38:     at Object.<anonymous> (C:\Users\Admin\OneDrive\Desktop\Git local\project_backend\server.js:1:17)
+2024-10-21 17:38:38:     at Module._compile (node:internal/modules/cjs/loader:1358:14)
+2024-10-21 17:38:38:     at Module._extensions..js (node:internal/modules/cjs/loader:1416:10)
+2024-10-21 17:38:38:     at Module.load (node:internal/modules/cjs/loader:1208:32)
+2024-10-21 17:38:38:     at Module._load (node:internal/modules/cjs/loader:1024:12)
+2024-10-21 17:38:38:     at Object.<anonymous> (C:\Users\Admin\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23)
+2024-10-21 17:38:38:     at Module._compile (node:internal/modules/cjs/loader:1358:14) {
+2024-10-21 17:38:38:   code: 'MODULE_NOT_FOUND',
+2024-10-21 17:38:38:   requireStack: [
+2024-10-21 17:38:38:     'C:\\Users\\Admin\\OneDrive\\Desktop\\Git local\\project_backend\\server.js'
+2024-10-21 17:38:38:   ]
+2024-10-21 17:38:38: }
+2024-10-21 17:38:39: Error: Cannot find module 'express'
+2024-10-21 17:38:39: Require stack:
+2024-10-21 17:38:39: - C:\Users\Admin\OneDrive\Desktop\Git local\project_backend\server.js
+2024-10-21 17:38:39:     at Module._resolveFilename (node:internal/modules/cjs/loader:1145:15)
+2024-10-21 17:38:39:     at Hook._require.Module.require (C:\Users\Admin\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:81:25)
+2024-10-21 17:38:39:     at require (node:internal/modules/helpers:179:18)
+2024-10-21 17:38:39:     at Object.<anonymous> (C:\Users\Admin\OneDrive\Desktop\Git local\project_backend\server.js:1:17)
+2024-10-21 17:38:39:     at Module._compile (node:internal/modules/cjs/loader:1358:14)
+2024-10-21 17:38:39:     at Module._extensions..js (node:internal/modules/cjs/loader:1416:10)
+2024-10-21 17:38:39:     at Module.load (node:internal/modules/cjs/loader:1208:32)
+2024-10-21 17:38:39:     at Module._load (node:internal/modules/cjs/loader:1024:12)
+2024-10-21 17:38:39:     at Object.<anonymous> (C:\Users\Admin\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23)
+2024-10-21 17:38:39:     at Module._compile (node:internal/modules/cjs/loader:1358:14) {
+2024-10-21 17:38:39:   code: 'MODULE_NOT_FOUND',
+2024-10-21 17:38:39:   requireStack: [
+2024-10-21 17:38:39:     'C:\\Users\\Admin\\OneDrive\\Desktop\\Git local\\project_backend\\server.js'
+2024-10-21 17:38:39:   ]
+2024-10-21 17:38:39: }
+2024-10-21 17:38:39: Error: Cannot find module 'express'
+2024-10-21 17:38:39: Require stack:
+2024-10-21 17:38:39: - C:\Users\Admin\OneDrive\Desktop\Git local\project_backend\server.js
+2024-10-21 17:38:39:     at Module._resolveFilename (node:internal/modules/cjs/loader:1145:15)
+2024-10-21 17:38:39:     at Hook._require.Module.require (C:\Users\Admin\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:81:25)
+2024-10-21 17:38:39:     at require (node:internal/modules/helpers:179:18)
+2024-10-21 17:38:39:     at Object.<anonymous> (C:\Users\Admin\OneDrive\Desktop\Git local\project_backend\server.js:1:17)
+2024-10-21 17:38:39:     at Module._compile (node:internal/modules/cjs/loader:1358:14)
+2024-10-21 17:38:39:     at Module._extensions..js (node:internal/modules/cjs/loader:1416:10)
+2024-10-21 17:38:39:     at Module.load (node:internal/modules/cjs/loader:1208:32)
+2024-10-21 17:38:39:     at Module._load (node:internal/modules/cjs/loader:1024:12)
+2024-10-21 17:38:39:     at Object.<anonymous> (C:\Users\Admin\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23)
+2024-10-21 17:38:39:     at Module._compile (node:internal/modules/cjs/loader:1358:14) {
+2024-10-21 17:38:39:   code: 'MODULE_NOT_FOUND',
+2024-10-21 17:38:39:   requireStack: [
+2024-10-21 17:38:39:     'C:\\Users\\Admin\\OneDrive\\Desktop\\Git local\\project_backend\\server.js'
+2024-10-21 17:38:39:   ]
+2024-10-21 17:38:39: }
+2024-10-21 17:38:40: Error: Cannot find module 'express'
+2024-10-21 17:38:40: Require stack:
+2024-10-21 17:38:40: - C:\Users\Admin\OneDrive\Desktop\Git local\project_backend\server.js
+2024-10-21 17:38:40:     at Module._resolveFilename (node:internal/modules/cjs/loader:1145:15)
+2024-10-21 17:38:40:     at Hook._require.Module.require (C:\Users\Admin\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:81:25)
+2024-10-21 17:38:40:     at require (node:internal/modules/helpers:179:18)
+2024-10-21 17:38:40:     at Object.<anonymous> (C:\Users\Admin\OneDrive\Desktop\Git local\project_backend\server.js:1:17)
+2024-10-21 17:38:40:     at Module._compile (node:internal/modules/cjs/loader:1358:14)
+2024-10-21 17:38:40:     at Module._extensions..js (node:internal/modules/cjs/loader:1416:10)
+2024-10-21 17:38:40:     at Module.load (node:internal/modules/cjs/loader:1208:32)
+2024-10-21 17:38:40:     at Module._load (node:internal/modules/cjs/loader:1024:12)
+2024-10-21 17:38:40:     at Object.<anonymous> (C:\Users\Admin\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23)
+2024-10-21 17:38:40:     at Module._compile (node:internal/modules/cjs/loader:1358:14) {
+2024-10-21 17:38:40:   code: 'MODULE_NOT_FOUND',
+2024-10-21 17:38:40:   requireStack: [
+2024-10-21 17:38:40:     'C:\\Users\\Admin\\OneDrive\\Desktop\\Git local\\project_backend\\server.js'
+2024-10-21 17:38:40:   ]
+2024-10-21 17:38:40: }
+2024-10-21 17:38:41: Error: Cannot find module 'express'
+2024-10-21 17:38:41: Require stack:
+2024-10-21 17:38:41: - C:\Users\Admin\OneDrive\Desktop\Git local\project_backend\server.js
+2024-10-21 17:38:41:     at Module._resolveFilename (node:internal/modules/cjs/loader:1145:15)
+2024-10-21 17:38:41:     at Hook._require.Module.require (C:\Users\Admin\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:81:25)
+2024-10-21 17:38:41:     at require (node:internal/modules/helpers:179:18)
+2024-10-21 17:38:41:     at Object.<anonymous> (C:\Users\Admin\OneDrive\Desktop\Git local\project_backend\server.js:1:17)
+2024-10-21 17:38:41:     at Module._compile (node:internal/modules/cjs/loader:1358:14)
+2024-10-21 17:38:41:     at Module._extensions..js (node:internal/modules/cjs/loader:1416:10)
+2024-10-21 17:38:41:     at Module.load (node:internal/modules/cjs/loader:1208:32)
+2024-10-21 17:38:41:     at Module._load (node:internal/modules/cjs/loader:1024:12)
+2024-10-21 17:38:41:     at Object.<anonymous> (C:\Users\Admin\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23)
+2024-10-21 17:38:41:     at Module._compile (node:internal/modules/cjs/loader:1358:14) {
+2024-10-21 17:38:41:   code: 'MODULE_NOT_FOUND',
+2024-10-21 17:38:41:   requireStack: [
+2024-10-21 17:38:41:     'C:\\Users\\Admin\\OneDrive\\Desktop\\Git local\\project_backend\\server.js'
+2024-10-21 17:38:41:   ]
+2024-10-21 17:38:41: }
+2024-10-21 17:38:42: Error: Cannot find module 'express'
+2024-10-21 17:38:42: Require stack:
+2024-10-21 17:38:42: - C:\Users\Admin\OneDrive\Desktop\Git local\project_backend\server.js
+2024-10-21 17:38:42:     at Module._resolveFilename (node:internal/modules/cjs/loader:1145:15)
+2024-10-21 17:38:42:     at Hook._require.Module.require (C:\Users\Admin\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:81:25)
+2024-10-21 17:38:42:     at require (node:internal/modules/helpers:179:18)
+2024-10-21 17:38:42:     at Object.<anonymous> (C:\Users\Admin\OneDrive\Desktop\Git local\project_backend\server.js:1:17)
+2024-10-21 17:38:42:     at Module._compile (node:internal/modules/cjs/loader:1358:14)
+2024-10-21 17:38:42:     at Module._extensions..js (node:internal/modules/cjs/loader:1416:10)
+2024-10-21 17:38:42:     at Module.load (node:internal/modules/cjs/loader:1208:32)
+2024-10-21 17:38:42:     at Module._load (node:internal/modules/cjs/loader:1024:12)
+2024-10-21 17:38:42:     at Object.<anonymous> (C:\Users\Admin\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23)
+2024-10-21 17:38:42:     at Module._compile (node:internal/modules/cjs/loader:1358:14) {
+2024-10-21 17:38:42:   code: 'MODULE_NOT_FOUND',
+2024-10-21 17:38:42:   requireStack: [
+2024-10-21 17:38:42:     'C:\\Users\\Admin\\OneDrive\\Desktop\\Git local\\project_backend\\server.js'
+2024-10-21 17:38:42:   ]
+2024-10-21 17:38:42: }
+2024-10-21 17:38:43: Error: Cannot find module 'express'
+2024-10-21 17:38:43: Require stack:
+2024-10-21 17:38:43: - C:\Users\Admin\OneDrive\Desktop\Git local\project_backend\server.js
+2024-10-21 17:38:43:     at Module._resolveFilename (node:internal/modules/cjs/loader:1145:15)
+2024-10-21 17:38:43:     at Hook._require.Module.require (C:\Users\Admin\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:81:25)
+2024-10-21 17:38:43:     at require (node:internal/modules/helpers:179:18)
+2024-10-21 17:38:43:     at Object.<anonymous> (C:\Users\Admin\OneDrive\Desktop\Git local\project_backend\server.js:1:17)
+2024-10-21 17:38:43:     at Module._compile (node:internal/modules/cjs/loader:1358:14)
+2024-10-21 17:38:43:     at Module._extensions..js (node:internal/modules/cjs/loader:1416:10)
+2024-10-21 17:38:43:     at Module.load (node:internal/modules/cjs/loader:1208:32)
+2024-10-21 17:38:43:     at Module._load (node:internal/modules/cjs/loader:1024:12)
+2024-10-21 17:38:43:     at Object.<anonymous> (C:\Users\Admin\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23)
+2024-10-21 17:38:43:     at Module._compile (node:internal/modules/cjs/loader:1358:14) {
+2024-10-21 17:38:43:   code: 'MODULE_NOT_FOUND',
+2024-10-21 17:38:43:   requireStack: [
+2024-10-21 17:38:43:     'C:\\Users\\Admin\\OneDrive\\Desktop\\Git local\\project_backend\\server.js'
+2024-10-21 17:38:43:   ]
+2024-10-21 17:38:43: }
+2024-10-21 17:38:44: Error: Cannot find module 'express'
+2024-10-21 17:38:44: Require stack:
+2024-10-21 17:38:44: - C:\Users\Admin\OneDrive\Desktop\Git local\project_backend\server.js
+2024-10-21 17:38:44:     at Module._resolveFilename (node:internal/modules/cjs/loader:1145:15)
+2024-10-21 17:38:44:     at Hook._require.Module.require (C:\Users\Admin\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:81:25)
+2024-10-21 17:38:44:     at require (node:internal/modules/helpers:179:18)
+2024-10-21 17:38:44:     at Object.<anonymous> (C:\Users\Admin\OneDrive\Desktop\Git local\project_backend\server.js:1:17)
+2024-10-21 17:38:44:     at Module._compile (node:internal/modules/cjs/loader:1358:14)
+2024-10-21 17:38:44:     at Module._extensions..js (node:internal/modules/cjs/loader:1416:10)
+2024-10-21 17:38:44:     at Module.load (node:internal/modules/cjs/loader:1208:32)
+2024-10-21 17:38:44:     at Module._load (node:internal/modules/cjs/loader:1024:12)
+2024-10-21 17:38:44:     at Object.<anonymous> (C:\Users\Admin\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23)
+2024-10-21 17:38:44:     at Module._compile (node:internal/modules/cjs/loader:1358:14) {
+2024-10-21 17:38:44:   code: 'MODULE_NOT_FOUND',
+2024-10-21 17:38:44:   requireStack: [
+2024-10-21 17:38:44:     'C:\\Users\\Admin\\OneDrive\\Desktop\\Git local\\project_backend\\server.js'
+2024-10-21 17:38:44:   ]
+2024-10-21 17:38:44: }
+2024-10-21 17:38:44: Error: Cannot find module 'express'
+2024-10-21 17:38:44: Require stack:
+2024-10-21 17:38:44: - C:\Users\Admin\OneDrive\Desktop\Git local\project_backend\server.js
+2024-10-21 17:38:44:     at Module._resolveFilename (node:internal/modules/cjs/loader:1145:15)
+2024-10-21 17:38:44:     at Hook._require.Module.require (C:\Users\Admin\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:81:25)
+2024-10-21 17:38:44:     at require (node:internal/modules/helpers:179:18)
+2024-10-21 17:38:44:     at Object.<anonymous> (C:\Users\Admin\OneDrive\Desktop\Git local\project_backend\server.js:1:17)
+2024-10-21 17:38:44:     at Module._compile (node:internal/modules/cjs/loader:1358:14)
+2024-10-21 17:38:44:     at Module._extensions..js (node:internal/modules/cjs/loader:1416:10)
+2024-10-21 17:38:44:     at Module.load (node:internal/modules/cjs/loader:1208:32)
+2024-10-21 17:38:44:     at Module._load (node:internal/modules/cjs/loader:1024:12)
+2024-10-21 17:38:44:     at Object.<anonymous> (C:\Users\Admin\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23)
+2024-10-21 17:38:44:     at Module._compile (node:internal/modules/cjs/loader:1358:14) {
+2024-10-21 17:38:44:   code: 'MODULE_NOT_FOUND',
+2024-10-21 17:38:44:   requireStack: [
+2024-10-21 17:38:44:     'C:\\Users\\Admin\\OneDrive\\Desktop\\Git local\\project_backend\\server.js'
+2024-10-21 17:38:44:   ]
+2024-10-21 17:38:44: }

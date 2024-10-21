@@ -2,7 +2,7 @@ module.exports = {
   apps: [
     {
       name: 'Pm2',
-      script: './path/to/your/server.js',
+      script: 'server.js',
       instances: 'max', // Or a specific number
       exec_mode: 'cluster',
       env: {

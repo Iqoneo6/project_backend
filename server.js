@@ -33,5 +33,4 @@ const dbConnection =async()=> {
   };
 };
 dbConnection().then(startServer);
-//password
-//some of the mis commication is present in the git 
+ 

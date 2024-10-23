@@ -33,4 +33,5 @@ const dbConnection =async()=> {
   };
 };
 dbConnection().then(startServer);
-//How to fix the error in local
+//password
+//some of the mis commication is present in the git 

@@ -33,4 +33,4 @@ const dbConnection =async()=> {
   };
 };
 dbConnection().then(startServer);
-//i am from theni
+//This is my error and how to fix the error

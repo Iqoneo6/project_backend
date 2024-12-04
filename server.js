@@ -11,7 +11,7 @@ app.use(cors());
 app.get("/", (req, res) => {
   res.status(200).json({
     message:
-      "Hi All,server is up and running.",
+      "Hi All,I am server.",
   });
 });
 const {PORT, NODE_ENV } = process.env;

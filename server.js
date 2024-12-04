@@ -8,7 +8,7 @@ const app = express();
 
 app.use(express.json());
 app.use(cors());
-app.get("/api/dummy", (req, res) => {
+app.get("/", (req, res) => {
   res.status(200).json({
     message:
       "Hi All,Kindly navigate to client side of the application.",

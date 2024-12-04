@@ -6,31 +6,30 @@ on:
       - develop
 
 jobs:
-  build:
-    runs-on: self-hosted
+  build-node:
+    runs-on: self-hosted  # Self-hosted runner for the first job
 
     steps:
-    - name: Checkout code
-      uses: actions/checkout@v3
+      - name: Checkout code
+        uses: actions/checkout@v3
 
-    - name: Set up Node.js
-      uses: actions/setup-node@v3
-      with:
-        node-version: '20'  # Specify the Node.js version you're using
+      - name: Set up Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: '20'  # Specify the Node.js version you're using
 
-    - name: Install dependencies
-      run: npm install 
+      - name: Install dependencies
+        run: npm install
 
-jobs:
-
-  build:
-
-    runs-on: ubuntu-latest
+  build-docker:
+    runs-on: ubuntu-latest  # GitHub-hosted runner for the second job
 
     steps:
-    - uses: actions/checkout@v3
-    - name: Login Dockerhub
-      env:
-        DOCKER_USERNAME: ${{secrets.DOCKER_USERNAME}}
-        DOCKER_PASSWORD: ${{secrets.DOCKER_PASSWORD}}
-      run: docker login -u $DOCKER_USERNAME -p $DOCKER_PASSWORD
+      - name: Checkout code
+        uses: actions/checkout@v3
+
+      - name: Login Dockerhub
+        env:
+          DOCKER_USERNAME: ${{ secrets.DOCKER_USERNAME }}
+          DOCKER_PASSWORD: ${{ secrets.DOCKER_PASSWORD }}
+        run: docker login -u $DOCKER_USERNAME -p $DOCKER_PASSWORD

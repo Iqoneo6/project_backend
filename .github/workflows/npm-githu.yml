@@ -1,4 +1,4 @@
-name: project_backend
+name: project_backend_ci_cd_workflow
 
 on:
   push:

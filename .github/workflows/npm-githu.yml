@@ -40,12 +40,12 @@ jobs:
       - name: Push to Dockerhub
         run: docker push sachin816/wizinoa1:latest
 
-  # deploy-docker:
-  #   runs-on: self-hosted  
+  deploy-docker:
+    runs-on: self-hosted  
 
-  #   steps:
-  #     - name: Pull Docker image
-  #       run: sudo docker pull sachin816/wizinoa1:latest
+    steps:
+      - name: Pull Docker image
+        run: sudo docker pull sachin816/wizinoa1:latest
 
   #     - name: Delete Old Docker container
   #       run: sudo docker rm -f node || true

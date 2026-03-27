@@ -1,7 +1,7 @@
 module.exports = {
   apps: [
     {
-      name: "Project_backend",
+      name: "Mar27",
       script: "server.js",
       // watch: true,
       node_args: "--max_old_space_size=16000",

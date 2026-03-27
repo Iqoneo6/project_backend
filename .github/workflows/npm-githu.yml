@@ -3,8 +3,8 @@ name: project_backend
 on:
   push:
     branches:
-      - demo
-
+      - develop
+      
 jobs:
   build:
     runs-on: self-hosted
